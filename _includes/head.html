@@ -1,0 +1,109 @@
+<head>
+	<meta charset="utf-8">
+	<title>{% if page.title %}{{ page.title }} |{% endif %} {{ site.theme_settings.title }} - Marketing, Produto e Estratégia de Negócios.</title>
+	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.theme_settings.description }}{% endif %}">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Canonical URL Posts -->
+	{% if page.canonical %}
+	<link rel="canonical" href="{{ page.canonical }}">
+	{% endif %}
+
+	<!-- Open Graph Tags -->
+	<meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.theme_settings.title | escape }}{% endif %}" />
+	<meta property="og:site_name" content="Felipe Barbosa" />
+	<meta property="og:type" content="website" />
+
+	{% if page.excerpt or site.theme_settings.descriptiion %}
+	<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | normalize_whitespace | truncate: 160 | escape }}{% else %}{{ site.theme_settings.description }}{% endif %}" />
+	{% endif %}
+
+	<meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}" />
+
+	{% if site.facebook_app_id %}
+	<meta property="fb:app_id" content="{{ site.facebook_app_id }}" />
+	{% endif %}
+
+	<meta name="twitter:card" content="summary" />
+
+	{% if site.twitter %}
+	<meta name="twitter:site" content="{{ site.twitter }}" />
+	{% endif %}
+
+	{% if page.twitter or site.twitter %}
+	<meta name="twitter:creator" content="{% if page.twitter %}{{ page.twitter }}{% else %}{{site.twitter }}{% endif %}" />
+	{% endif %}
+
+	{% if site.theme_settings.locale %}
+	<meta property="og:locale" content="{{ site.theme_settings.locale }}" />
+	{% endif %}
+
+	{% if page.feature-img %}
+	<!-- Open Graph Image -->
+
+	<meta property="og:image" content="{{ page.feature-img }}" />
+	
+	{% elsif site.theme_settings.image %}
+	<!-- Open Graph Image -->
+
+	<meta property="og:image" content="{{ site.theme_settings.image }}" />
+	
+	{% endif %}
+
+	<!-- Google, Bing, Pinterest, Majestic and Facebook Meta Verification -->
+	<meta name="google-site-verification" content="wAtOt92GCvuANIDEh57uq0aeHzYwrz0sEUcsaV3N5cw" />
+	<meta name="google-site-verification" content="IONveo9e9y77VPz-9fJ2N31XAPbHoVNAg2HiHSUX2lo" />
+	<meta name="msvalidate.01" content="0B1F01B24803CA31E5C061EF7B0A4028" />
+	<meta name="p:domain_verify" content="d72cf7bc337b684cc4d1534088677fda"/>
+	<meta property="fb:pages" content="240597259611282" />
+
+	<!-- Change Theme Meta -->
+	<meta name="theme-color" content="#150140">
+	
+	<!-- CSS -->
+	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+
+	<!--Favicon-->
+	<link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" type="image/x-icon">
+
+	<!-- Canonical -->
+	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+	<!-- RSS -->
+	<link rel="alternate" type="application/atom+xml" title="{{ site.theme_settings.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+
+	<!-- Font Awesome -->
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+	<!-- Google Fonts -->
+	{% if site.theme_settings.google_fonts %}
+	<link href="//fonts.googleapis.com/css?family={{ site.theme_settings.google_fonts }}" rel="stylesheet" type="text/css">
+	{% endif %}
+
+	<!-- Hubspot Tracker -->
+	 <!-- Start of HubSpot Embed Code -->
+  <script type="text/javascript" id="hs-script-loader" async defer src="//js-na1.hs-scripts.com/50933491.js"></script>
+<!-- End of HubSpot Embed Code -->
+	<!-- Hubspot Tracker End -->
+
+	<!-- Analytics GA4 -->
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-QQNXJB6LH4"></script>
+		<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'G-QQNXJB6LH4');
+		</script>
+	<!-- Analytics GA4 End -->
+
+	<!-- Segment -->		
+	<script>
+	!function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="4.0.0";
+	analytics.load("xd0xhS5YNq6ISZIAzTJ8azaCFWkUpbiM");
+	analytics.page();
+	}}();
+	</script>
+	
+</head>

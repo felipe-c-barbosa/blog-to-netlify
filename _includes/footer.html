@@ -1,0 +1,75 @@
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+
+<!-- script>
+	$(function() {
+		var pageTitle = null;
+		var postTitle = $("h1.title");
+		if (postTitle.length)
+		pageTitle =  postTitle.text();
+		
+		if (pageTitle) {
+		analytics.page(pageTitle);
+			
+		analytics.track("read-post", {
+			postName: pageTitle,
+			pathName: window.location.pathname
+		});
+			
+		}
+	});
+</script-->
+
+<!-- Schema.Org -->
+<script type="application/ld+json">
+[
+	{
+	"@context": "http://schema.org",
+	"@type": "Person",
+	"name": "Felipe Barbosa",
+	"jobTitle": "Product Marketing Manager",
+	"url": "https://felipebarbosa.me",
+	"sameAs": [
+		"https://twitter.com/felipecb_",
+		"https://www.linkedin.com/in/felipecardosobarbosa"
+	]
+	},
+	{
+	"@context": "http://schema.org",
+	"@type": "WebSite",
+	"name": "Felipe Barbosa - Marketing, Produto e Estratégia de Negócios.",
+	"url": "https://felipebarbosa.me"
+	}, 
+	{
+	"@context": "http://schema.org",
+	"@type": "Organization",
+	"name": "Felipe Barbosa - Marketing, Produto e Estratégia de Negócios.",
+	"url": "https://felipebarbosa.me",
+	"logo": "https://res.cloudinary.com/felipe-barbosa/image/upload/v1677279984/Brand%20Assets/felipe_barbosa-logo-icon-alternative.png"
+	}
+]
+</script>
+
+{% if site.theme_settings.footer_text %}
+<footer class="site-footer">
+	<p class="text">Eu escrevo sobre</p>
+	<nav class="site-nav">
+		<ul>
+			<li><a href="/marketing/">Marketing</a></li>
+			<li><a href="/produto/">Produto</a></li>
+			<li><a href="/business/">Business</a></li>
+		</ul>
+	</nav>
+	<p class="text">{{ site.theme_settings.footer_text }}</p>
+
+	<nav class="site-nav">
+		<ul>
+			<li><a href="https://productmarketingalliance.com/" target="_blank">Product Marketing Alliance</a></li>
+			<li><a href="/livros-para-profissionais/">Livros Profissionais</a></li>
+			<li><a href="/product-marketing/vagas">Vagas</a></li>
+			<li><a href="https://status.felipebarbosa.me/" target="_blank">Status</a></li>
+		</ul>
+	</nav>
+
+</footer>
+{% endif %}
