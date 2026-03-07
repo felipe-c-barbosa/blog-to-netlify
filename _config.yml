@@ -21,7 +21,7 @@ theme_settings:
         
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://pages.github.com/">Github Pages</a><br>Felipe Barbosa 2025
+   Powered by <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://www.netlify.com/">Netlify</a><br>Felipe Barbosa 2025
 
   # Icons
   rss: true
@@ -77,4 +77,4 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
-gems: [jekyll-paginate, jekyll-sitemap, jekyll-redirect-from]
+plugins: [jekyll-paginate, jekyll-sitemap, jekyll-redirect-from]

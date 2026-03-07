@@ -1,0 +1,14 @@
+[build]
+  command = "jekyll build"
+  publish = "_site"
+
+[build.environment]
+  RUBY_VERSION = "3.2.0"
+  JEKYLL_ENV = "production"
+
+# Redireciona www para apex domain
+[[redirects]]
+  from = "https://www.felipebarbosa.me/*"
+  to = "https://felipebarbosa.me/:splat"
+  status = 301
+  force = true
