@@ -1,7 +1,7 @@
 source "https://rubygems.org"
-gem 'rouge'
-gem 'jekyll', '~> 4.3'
-gem 'jekyll-paginate'
-gem 'jekyll-sitemap'
-gem 'jekyll-redirect-from'
+gem 'rouge', '~> 4.1'
+gem 'jekyll', '~> 4.3.0'
+gem 'jekyll-paginate', '~> 1.1'
+gem 'jekyll-sitemap', '~> 1.4'
+gem 'jekyll-redirect-from', '~> 0.16'
 gem 'webrick'
