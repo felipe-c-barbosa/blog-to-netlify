@@ -3,6 +3,8 @@ permalink: robots.txt
 layout:
 ---
 
+# Ambiente de teste - remover quando o blog estiver em produção
 User-agent: *
-Disallow:
-Sitemap: {{ site.url }}/sitemap.xml
+Disallow: /
+
+# Sitemap: {{ site.url }}/sitemap.xml
