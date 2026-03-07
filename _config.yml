@@ -1,6 +1,7 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://felipebarbosa.me" # the base hostname & protocol for your site
+remote_theme: rohanchandra/type-theme
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -77,4 +78,4 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
-plugins: [jekyll-paginate, jekyll-sitemap, jekyll-redirect-from]
+plugins: [jekyll-paginate, jekyll-sitemap, jekyll-redirect-from, jekyll-remote-theme]
