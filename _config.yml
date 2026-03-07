@@ -1,13 +1,11 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://felipebarbosa.me" # the base hostname & protocol for your site
-remote_theme: rohanchandra/type-theme
-
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
   title: Felipe Barbosa
-  avatar: felipe_barbosa-logo-icon-alternative.png
+  avatar:
   gravatar: # Email MD5 hash
   description: "Um blog para falar sobre Marketing, Produto e Estratégia de Negócios." # used by search engines
   author: Felipe Barbosa
@@ -70,7 +68,7 @@ theme_settings:
 
 # PAGINATION
 paginate: 5
-paginate_path: "page:num"
+paginate_path: "/page:num/"
 
 # BUILD SETTINGS
 markdown: kramdown
@@ -78,4 +76,4 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
-plugins: [jekyll-paginate, jekyll-sitemap, jekyll-redirect-from, jekyll-remote-theme]
+plugins: [jekyll-paginate, jekyll-sitemap, jekyll-redirect-from]
