@@ -5,7 +5,7 @@ url: "https://felipebarbosa.me" # the base hostname & protocol for your site
 theme_settings:
   # Meta
   title: Felipe Barbosa
-  avatar:
+  avatar: felipe_barbosa-logo-icon-alternative.png
   gravatar: # Email MD5 hash
   description: "Um blog para falar sobre Marketing, Produto e Estratégia de Negócios." # used by search engines
   author: Felipe Barbosa
