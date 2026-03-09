@@ -1,0 +1,34 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "images/uploads"
+public_folder: "/images/uploads"
+
+locale: "pt"
+
+collections:
+  - name: "posts"
+    label: "Posts"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Título", name: "title", widget: "string" }
+      - { label: "Autor", name: "author", widget: "hidden", default: "Felipe Barbosa" }
+      - label: "Permalink"
+        name: "permalink"
+        widget: "string"
+        hint: "URL personalizada do post, ex: /meu-artigo/"
+      - label: "Categoria"
+        name: "categories"
+        widget: "select"
+        options:
+          - { label: "Marketing", value: "marketing" }
+          - { label: "Business", value: "business" }
+          - { label: "Produto", value: "product" }
+          - { label: "Geral", value: "general" }
+      - { label: "Conteúdo", name: "body", widget: "markdown" }
