@@ -32,3 +32,110 @@ collections:
           - { label: "Produto", value: "product" }
           - { label: "Geral", value: "general" }
       - { label: "Conteúdo", name: "body", widget: "markdown" }
+
+  - name: "pages"
+    label: "Páginas"
+    editor:
+      preview: false
+    files:
+      - name: "sobre"
+        label: "Sobre"
+        file: "sobre.md"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Título", name: "title", widget: "string" }
+          - { label: "Permalink", name: "permalink", widget: "string" }
+          - { label: "Menu", name: "menu", widget: "string", required: false }
+          - label: "Redirect From"
+            name: "redirect_from"
+            widget: "list"
+            required: false
+            hint: "URLs antigas que devem redirecionar para esta página"
+          - { label: "Conteúdo", name: "body", widget: "markdown" }
+
+      - name: "contato"
+        label: "Contato"
+        file: "contato.md"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Título", name: "title", widget: "string" }
+          - { label: "Permalink", name: "permalink", widget: "string" }
+          - { label: "Menu", name: "menu", widget: "string", required: false }
+          - { label: "Conteúdo", name: "body", widget: "markdown" }
+
+      - name: "leituras"
+        label: "Leituras Recentes"
+        file: "leituras.md"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Título", name: "title", widget: "string" }
+          - { label: "Permalink", name: "permalink", widget: "string" }
+          - { label: "Menu", name: "menu", widget: "string", required: false }
+          - label: "Redirect From"
+            name: "redirect_from"
+            widget: "list"
+            required: false
+          - { label: "Conteúdo", name: "body", widget: "markdown" }
+
+      - name: "livros-profissionais"
+        label: "Livros para Profissionais"
+        file: "livros-profissionais.md"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Título", name: "title", widget: "string" }
+          - { label: "Permalink", name: "permalink", widget: "string" }
+          - { label: "Conteúdo", name: "body", widget: "markdown" }
+
+      - name: "livros-profissionais-marketing"
+        label: "Livros de Marketing"
+        file: "livros-profissionais-marketing.md"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Título", name: "title", widget: "string" }
+          - { label: "Permalink", name: "permalink", widget: "string" }
+          - { label: "Conteúdo", name: "body", widget: "markdown" }
+
+      - name: "portfolio"
+        label: "Portfolio"
+        file: "portfolio.md"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Título", name: "title", widget: "string" }
+          - { label: "Permalink", name: "permalink", widget: "string" }
+          - { label: "Conteúdo", name: "body", widget: "markdown" }
+
+      - name: "desconto-curso-pm3"
+        label: "Desconto Curso PM3"
+        file: "desconto-curso-pm3.md"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Título", name: "title", widget: "string" }
+          - { label: "Permalink", name: "permalink", widget: "string" }
+          - { label: "Conteúdo", name: "body", widget: "markdown" }
+
+      - name: "colaboration"
+        label: "Colaboração"
+        file: "colaboration.md"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Título", name: "title", widget: "string" }
+          - { label: "Permalink", name: "permalink", widget: "string" }
+          - { label: "Conteúdo", name: "body", widget: "markdown" }
+
+      - name: "product-stars"
+        label: "Product Stars"
+        file: "product-stars.md"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Título", name: "title", widget: "string" }
+          - { label: "Permalink", name: "permalink", widget: "string" }
+          - { label: "Conteúdo", name: "body", widget: "markdown" }
+
+      - name: "medium"
+        label: "Medium"
+        file: "medium.md"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Título", name: "title", widget: "string" }
+          - { label: "Permalink", name: "permalink", widget: "string" }
+          - { label: "Conteúdo", name: "body", widget: "markdown" }
