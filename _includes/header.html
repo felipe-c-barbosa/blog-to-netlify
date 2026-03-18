@@ -13,6 +13,11 @@
 			<a href="{{ site.baseurl }}/">{{ site.theme_settings.title }}</a>
 		</h1>
 	</div>
+	<button class="nav-toggle-btn" aria-label="Abrir menu" aria-expanded="false">
+		<span></span>
+		<span></span>
+		<span></span>
+	</button>
 	<nav class="site-nav">
 		<ul>
 			{% for page in site.pages %}
@@ -31,3 +36,26 @@
 		</ul>
 	</nav>
 </header>
+<script>
+	(function () {
+		var btn = document.querySelector('.nav-toggle-btn');
+		var nav = document.querySelector('.site-nav');
+		if (!btn || !nav) return;
+
+		btn.addEventListener('click', function () {
+			var isOpen = nav.classList.toggle('is-open');
+			btn.classList.toggle('is-open', isOpen);
+			btn.setAttribute('aria-expanded', String(isOpen));
+			btn.setAttribute('aria-label', isOpen ? 'Fechar menu' : 'Abrir menu');
+		});
+
+		document.addEventListener('click', function (e) {
+			if (!e.target.closest('.site-header')) {
+				nav.classList.remove('is-open');
+				btn.classList.remove('is-open');
+				btn.setAttribute('aria-expanded', 'false');
+				btn.setAttribute('aria-label', 'Abrir menu');
+			}
+		});
+	})();
+</script>
