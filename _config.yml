@@ -15,7 +15,7 @@ theme_settings:
   
   # Header and footer text
   header_text: >
-    <h2 style="color: #f4f4f4; font-size: 1.2em; background: linear-gradient(-70deg, #f4f4f4 5%, #fec901 100%, transparent); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Marketing & Produto & Estratégia</h2>
+    <h2 style="color: #fff9e6; font-size: 1.2em;">Marketing & Produto & Estratégia</h2>
         
   header_text_feature_image:
   footer_text: >
