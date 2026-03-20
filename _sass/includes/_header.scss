@@ -5,7 +5,10 @@
   display: inline-block;
   float: left;
   width: 100%;
-  position: relative;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
 
   a {
     color: $header-link-color;

@@ -58,4 +58,13 @@
 			}
 		});
 	})();
+
+	(function () {
+		var header = document.querySelector('.site-header');
+		function adjustBodyPadding() {
+			document.body.style.paddingTop = header.offsetHeight + 'px';
+		}
+		adjustBodyPadding();
+		window.addEventListener('resize', adjustBodyPadding);
+	})();
 </script>
