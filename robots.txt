@@ -7,4 +7,17 @@ User-agent: *
 Allow: /
 Disallow: /admin/
 
+# GPTBot (OpenAI), Google-Extended e outros rastreadores de IA
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
 Sitemap: {{ site.url }}/sitemap.xml
