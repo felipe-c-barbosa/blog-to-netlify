@@ -10,9 +10,24 @@
   top: 0;
   left: 0;
   z-index: 1000;
+  transition: background 0.3s ease, border-color 0.3s ease;
 
   a {
     color: $header-link-color;
+    transition: color 0.3s ease;
+  }
+
+  &.is-scrolled {
+    background: #150140;
+    border-bottom-color: transparent;
+
+    a {
+      color: $background-color;
+    }
+
+    .nav-toggle-btn span {
+      background: $background-color;
+    }
   }
 
   .branding {
@@ -55,7 +70,7 @@
       width: 100%;
       background: $header-link-color;
       border-radius: 2px;
-      transition: transform 0.3s ease, opacity 0.3s ease;
+      transition: transform 0.3s ease, opacity 0.3s ease, background 0.3s ease;
     }
 
     // Animate to X when open
