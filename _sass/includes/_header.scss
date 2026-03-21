@@ -2,16 +2,37 @@
   @extend %padding-small;
   background: $brand-color;
   border-bottom: 1px solid $border-color;
-  display: inline-block;
-  float: left;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
   width: 100%;
   position: fixed;
   top: 0;
   left: 0;
   z-index: 1000;
+  transition: background 0.3s ease, border-color 0.3s ease;
 
   a {
     color: $header-link-color;
+    transition: color 0.3s ease;
+  }
+
+  &.is-scrolled {
+    background: #150140;
+    border-bottom-color: transparent;
+
+    a {
+      color: $background-color;
+    }
+
+    .nav-toggle-btn span {
+      background: $background-color;
+    }
+  }
+
+  .branding {
+    display: flex;
+    align-items: center;
   }
 
   .avatar {
@@ -49,7 +70,7 @@
       width: 100%;
       background: $header-link-color;
       border-radius: 2px;
-      transition: transform 0.3s ease, opacity 0.3s ease;
+      transition: transform 0.3s ease, opacity 0.3s ease, background 0.3s ease;
     }
 
     // Animate to X when open
@@ -71,7 +92,13 @@
   .site-nav {
     display: flex;
     align-items: center;
-    float: right;
+
+    // Center page links across the full header width (desktop only)
+    ul:first-child {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+    }
 
     ul {
       margin: 0;
@@ -109,6 +136,8 @@
 
         // Page links — one per line
         ul:first-child {
+          position: static;
+          transform: none;
           flex-direction: column;
           align-items: flex-start;
           width: 100%;
