@@ -67,4 +67,17 @@
 		adjustBodyPadding();
 		window.addEventListener('resize', adjustBodyPadding);
 	})();
+
+	(function () {
+		var header = document.querySelector('.site-header');
+		function onScroll() {
+			if (window.scrollY > 0) {
+				header.classList.add('is-scrolled');
+			} else {
+				header.classList.remove('is-scrolled');
+			}
+		}
+		onScroll();
+		window.addEventListener('scroll', onScroll, { passive: true });
+	})();
 </script>
