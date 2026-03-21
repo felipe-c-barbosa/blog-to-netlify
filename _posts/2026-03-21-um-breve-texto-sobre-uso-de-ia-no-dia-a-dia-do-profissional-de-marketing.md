@@ -5,15 +5,19 @@ author: Felipe Barbosa
 permalink: /ia-dia-a-dia-profissional-marketing/
 categories: marketing
 ---
-Nas últimas semanas eu mergulhei mais profundamente no universo de Inteligência Artificial. Se no ano passado eu estava molhando os pés aos poucos esse ano me atirei com tudo. E estou gostando. Resolvi escrever um texto rápido para falar como IA pode transformar o nosso dia-a-dia.
+Nas últimas semanas eu mergulhei mais profundamente no universo de Inteligência Artificial. Se no ano passado eu estava molhando os pés aos poucos esse ano me atirei com tudo. E estou gostando. 
+
+Resolvi escrever um texto rápido para falar como IA pode transformar o nosso dia-a-dia.
 
 ![Imagem criada pelo Gemini representando uma pessoa trabalhando com IA.](/images/uploads/ima-ia-dia-dia-marketing-gemini-v6.png)
 
 ## O que você pode fazer com IA
 
-Sei que tem um hype enorme ao redor do uso dessa tecnologia. Pessoas compartilhando prompts mirabolantes, ou automações complexas com 30 agentes realizando tarefas e até discursos sobre como passou a chover dinheiro depois que implementou a mais nova ferramenta.
+Sei que tem um hype enorme ao redor do uso dessa tecnologia. 
 
-Eu quero fugir desse caminho porque pra mim não ajuda, só cria mais FOMO.
+Pessoas compartilhando prompts mirabolantes, ou automações complexas com 30 agentes realizando tarefas e até discursos sobre como passou a chover dinheiro depois que implementou a mais nova ferramenta.
+
+> Eu quero fugir desse caminho porque pra mim não ajuda, só cria mais FOMO.
 
 Minha sugestão é olhar para seu trabalho como profissional de Marketing, pegar as tarefas mais repetitivas ou que você acredita que pode otimizar a forma de trabalhar para entregar resultado mais rápido e usar IA para isso.
 
@@ -25,7 +29,9 @@ Alguns exemplos:
 4. Sabe aquele documento lindo que você criou de Proposta de Valor, Messaging e Posicionamento mas agora tem que transformar em uma apresentação executiva? A IA vai te ajudar a consolidar os principais pontos e como posicionar a mensagem para o seu público;
 5. E aquele dia onde você precisa aprender em uma semana sobre um produto novo que caiu no seu colo porque só agora avisaram que é prioridade e o lançamento vem aí. Sabe? A IA vai te dar um caminho guiado para aprendizado.
 
-Esses são alguns casos de uso, nada complexo, tudo bem simples para começar a ir mergulhando nesse universo. Encontre algo do seu dia a dia e só vai.
+Esses são alguns casos de uso, nada complexo, tudo bem simples para começar a ir mergulhando nesse universo. 
+
+> Encontre algo do seu dia a dia e só vai.
 
 ## Quais ferramentas usar?
 
@@ -33,7 +39,7 @@ Hoje o que mais tem é ferramenta, algumas são melhores que outras para determi
 
 Antes de dizer quais eu gosto de usar fica o aviso importante: no seu trabalho só use as ferramentas homologadas e permitidas pela empresa ou pelos seus líderes. 
 
-Não sai criando conta pessoal e usando com materiais de trabalho sem uma governança de dados, segurança e privacidade.
+> Não sai criando conta pessoal e usando com materiais de trabalho sem uma governança de dados, segurança e privacidade.
 
 Você pode estar dando insumos estratégicos da sua empresa para que terceiros treinem seus modelos. 
 
@@ -67,7 +73,7 @@ Tem muitas tarefas do nosso trabalho que é muito mais rápido fazer e entregar 
 
 Muitas vezes o ato de pensar e escrever um prompt, ficar refinando resposta e tentar forçar uma qualidade que não vem é menos eficiente. 
 
-A IA não deve pensar por você ou fazer as coisas por você. Deve ser uma ferramenta que potencializa quem você é.
+> A IA não deve pensar por você ou fazer as coisas por você. Deve ser uma ferramenta que potencializa quem você é.
 
 Para isso é preciso dominá-la, saber quando ela vai te fazer melhor e também quando ela vai te fazer uma versão pior como profissional.
 
