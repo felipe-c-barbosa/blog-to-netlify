@@ -5,7 +5,11 @@ permalink: /livros-para-profissionais/livros-produto
 description: "Uma análise detalhada e tabela consolidada dos livros da minha biblioteca, cobrindo desde metodologias ágeis até psicologia do usuário."
 ---
 
-# Análise Crítica e Curadoria do Cânone de Gestão de Produtos: Um Relatório Profundo sobre a Bibliografia "Produto"
+O texto abaixo foi gerado através do Gemini, com a função de Deep Research. 
+
+Eu pedi uma análise dos ([livros de Produto](/livros-para-profissionais/#produto){:target="_blank"}) listados na página onde faço uma curadoria de diversos livros que li ao longo da minha jornada como profissional de Marketing e Produto.
+
+---
 
 ## Introdução: A Convergência de Disciplinas na Gestão de Produtos
 

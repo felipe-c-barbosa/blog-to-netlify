@@ -9,8 +9,6 @@ O texto abaixo foi gerado através do Gemini, com a função de Deep Research.
 
 Eu pedi uma análise dos ([livros de Marketing](/livros-para-profissionais/#marketing){:target="_blank"}) listados na página onde faço uma curadoria de diversos livros que li ao longo da minha jornada como estudante de Administração, Marketing e Produto.
 
-Mantive o texto exatamente como foi o resultado do prompt e da análise que a IA fez.
-
 ---
 
 ## 1. O Cânone do Marketing na Era da Informação: Contexto e Curadoria
