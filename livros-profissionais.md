@@ -96,7 +96,7 @@ Cada livro tem um link para poder comprar em alguma loja. Nos links da Amazon te
 52. Product Launch: How to Go to Market ([Amazon](https://amzn.to/3h2jXlR){:target="_blank"})
 53. Product Marketing Debunked: The essential go-to-marketing guide ([Amazon](https://amzn.to/3113Lfp){:target="_blank"})
 
-Criei uma análise sobre todos esses livros de Marketing caso queiram entender como se conectam e a importância deles. [Análise dos livros de Marketing](/livros-profissionais/livros-profissionais-marketing){:target="_blank"}
+Criei uma análise sobre todos esses livros de Marketing caso queiram entender como se conectam e a importância deles. [Análise dos livros de Marketing](/livros-para-profissionais/livros-marketing){:target="_blank"}
 
 <h2 id="produto">Produto</h2>
 
@@ -130,6 +130,8 @@ Criei uma análise sobre todos esses livros de Marketing caso queiram entender c
 28. Métricas Ágeis: Obtenha melhores resultados em sua equipe ([Amazon](https://amzn.to/2XqWW3R){:target="_blank"})
 29. Sprint a Sprint: Erros e acertos na transformação cultural de um time ágil ([Amazon](https://amzn.to/38aUmUk){:target="_blank"})
 30. Escaping the Build Trap: How Effective Product Management
+
+Criei uma análise sobre todos esses livros de Produto caso queiram entender como se conectam e a importância deles. [Análise dos livros de Produto](/livros-para-profissionais/livros-produto){:target="_blank"}
 
 <h2 id="startups">Startups</h2>
 
