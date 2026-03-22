@@ -156,6 +156,8 @@ Criei uma análise sobre todos esses livros de Produto caso queiram entender com
 19. The Entrepreneur's Guide to Customer Development: A "Cheat Sheet" to The Four Steps to the Epiphany ([Amazon](https://amzn.to/2Vx4AIT){:target="_blank"})
 20. Ry's Git Tutorial ([Amazon](https://amzn.to/2PZocTx){:target="_blank"})
 
+Criei uma análise sobre todos esses livros de Produto caso queiram entender como se conectam e a importância deles. [Análise dos livros sobre Startups](/livros-para-profissionais/livros-startups){:target="_blank"}
+
 <h2 id="negocios">Negócios em Geral</h2>
 
 1. Competing Against Luck: The Story of Innovation and Customer Choice ([Amazon](https://amzn.to/2NGxPpW){:target="_blank"})

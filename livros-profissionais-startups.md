@@ -7,7 +7,7 @@ description: "Da validação de hipóteses à engenharia de crescimento exponenc
 
 O texto abaixo foi gerado através do Gemini, com a função de Deep Research. 
 
-Eu pedi uma análise dos ([livros de Produto](/livros-para-profissionais/#produto){:target="_blank"}) listados na página onde faço uma curadoria de diversos livros que li ao longo da minha jornada como profissional de Marketing e Produto.
+Eu pedi uma análise dos ([livros sobre Startups](/livros-para-profissionais/#startups){:target="_blank"}) listados na página onde faço uma curadoria de diversos livros que li ao longo da minha jornada como profissional em Startups e empresas tech.
 
 ---
 
