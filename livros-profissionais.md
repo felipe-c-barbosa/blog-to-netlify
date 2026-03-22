@@ -96,6 +96,8 @@ Cada livro tem um link para poder comprar em alguma loja. Nos links da Amazon te
 52. Product Launch: How to Go to Market ([Amazon](https://amzn.to/3h2jXlR){:target="_blank"})
 53. Product Marketing Debunked: The essential go-to-marketing guide ([Amazon](https://amzn.to/3113Lfp){:target="_blank"})
 
+Criei uma análise sobre todos esses livros de Marketing caso queiram entender como se conectam e a importância deles. [Análise dos livros de Marketing](/livros-profissionais/livros-profissionais-marketing){:target="_blank"}
+
 <h2 id="produto">Produto</h2>
 
 1. Sprint: O Método Usado no Google Para Testar e Aplicar Novas Ideias em Apenas Cinco Dias ([Amazon](https://amzn.to/2rv7z9h){:target="_blank"})
