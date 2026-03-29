@@ -53,7 +53,7 @@ O custo então não é um impeditivo. A barreira está mais na capacidade de con
 
 Uma pessoa que não é desenvolvedora ou precisa estudar para se tornar um ou precisa encontrar alguém para construir.
 
-E esse cenário é bem comum, quantas empresas tech começam com o chamado fundador técnico e fundador não-técnico. Ou pessoas que contratam um serviço terceiro e construir algo?
+E esse cenário é bem comum, quantas empresas tech começam com o chamado fundador técnico e fundador não-técnico. Ou pessoas que contratam um serviço terceiro para construir algo?
 
 Nesses 12 anos que eu vivo o mundo tech, dos negócios e de Marketing eu nunca vi um produto falhar porque seria difícil ou caro construir. 
 
@@ -61,7 +61,7 @@ Mas então, qual sempre foi a dificuldade?
 
 ## Difícil é achar quem compre
 
-Em todas empresas que vendiam SaaS para outros negócios a gente identificava muitos clientes, muitas empresas que claramente poderiam melhor seus processos e seus negócios com o nosso produto.
+Em todas empresas que vendiam SaaS para outros negócios que eu trabalhei a gente identificava muitos clientes, muitas empresas que claramente poderiam melhor seus processos e seus negócios com o nosso produto.
 
 Mas isso pouco importava se o cliente não sentisse o mesmo. 
 
