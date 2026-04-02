@@ -50,13 +50,13 @@ Não pule o passo 1. Posicionamento mal definido mais IA gera ruído com velocid
 
 ### 3. Sales enablement com mais velocidade
 
-Battle cards, objection handling, FAQ de vendas — conteúdo que demora dias para produzir pode sair em horas com IA como co-piloto.
+Battle cards, objection handling, FAQ de vendas, conteúdo que demora dias para produzir pode sair em horas com IA como co-piloto.
 
 O fluxo que recomendo:
 
 * Alimenta o LLM com: win/loss data, feedback de vendas, posicionamento do concorrente (de fontes públicas), seu próprio positioning doc
 * Pede rascunho estruturado de battle card
-* Revisão humana obrigatória — especialmente nas claims sobre o concorrente
+* Revisão humana obrigatória, especialmente nas claims sobre o concorrente
 
 O erro mais comum: usar IA para criar battle cards sem alimentá-la com dados reais da sua empresa. O output sai genérico e inaplicável.
 
@@ -75,7 +75,7 @@ Aplicações concretas:
 
 Preciso ser honesto sobre os limites porque subestimá-los é onde os erros acontecem.
 
-**Decisões de posicionamento:** não são delegáveis para IA. Positioning é uma escolha estratégica sobre para quem você quer ser relevante — e para quem você escolhe não ser. Ela envolve trade-offs que exigem julgamento de negócio, contexto histórico da empresa, e leitura de mercado que a IA não tem.
+**Decisões de posicionamento:** não são delegáveis para IA. Positioning é uma escolha estratégica sobre para quem você quer ser relevante, e para quem você escolhe não ser. Ela envolve trade-offs que exigem julgamento de negócio, contexto histórico da empresa, e leitura de mercado que a IA não tem.
 
 **Alinhamento com stakeholders:** é trabalho humano. Nenhum LLM vai convencer o time de vendas de que o novo messaging faz sentido, ou negociar com produto a prioridade de features para o próximo lançamento.
 
