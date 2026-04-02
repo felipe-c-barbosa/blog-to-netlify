@@ -80,7 +80,7 @@ Repare que esse texto nunca aparece em nenhum lugar público. Ele orienta o que 
 
 **Confundir features com benefícios.** "Nossa plataforma tem integração com Salesforce" é feature. "Reduz o tempo de atualização de CRM de 2 horas para 10 minutos" é benefício. Positioning statement fala em benefícios e resultados não em especificações técnicas.
 
-**Não ter ponto de vista sobre a alternativa.** Posicionamento sem perspectiva competitiva é posicionamento no vácuo. O cliente sempre compara com algo. Se você não define essa comparação, o mercado vai definir por você geralmente de forma desfavorável.
+**Não ter ponto de vista sobre a alternativa.** Posicionamento sem perspectiva competitiva é posicionamento no vácuo. O cliente sempre compara com algo. Se você não define essa comparação, o mercado vai definir por você de forma desfavorável.
 
 ## A implicação prática
 
