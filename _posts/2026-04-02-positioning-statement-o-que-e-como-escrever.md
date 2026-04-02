@@ -64,11 +64,11 @@ Esse campo precisa ser verificável. Não "somos os melhores do mercado", isso n
 
 Para tornar isso menos abstrato, o positioning statement que orienta o meu trabalho de consultoria ficaria assim:
 
-> **Para** profissionais de tecnologia no Brasil, PMMs, PMs, founders e líderes de marketing **que precisam construir ou aprimorar estratégia de Product Marketing, posicionamento e GTM com método**,
-> **Felipe Barbosa** é a **referência mais confiável de Product Marketing no Brasil**
-> **que** combina execução real em empresas de diferentes estágios com capacidade comprovada de transferir metodologia como frameworks acionáveis.
-> **Diferente de** consultores generalistas ou conteúdo importado do mercado americano,
-> **porque** tem mais de 10 anos de rodagem em startups a unicórnios como Nubank e VTEX, reconhecimento internacional pela PMA (Top 100 em 2021) e ensina na prática o que funciona no contexto brasileiro.
+**Para** profissionais de tecnologia no Brasil, PMMs, PMs, founders e líderes de marketing **que precisam construir ou aprimorar estratégia de Product Marketing, posicionamento e GTM com método**,
+**Felipe Barbosa** é a **referência mais confiável de Product Marketing no Brasil**
+**que** combina execução real em empresas de diferentes estágios com capacidade comprovada de transferir metodologia como frameworks acionáveis.
+**Diferente de** consultores generalistas ou conteúdo importado do mercado americano,
+**porque** tem mais de 10 anos de rodagem em startups a unicórnios como Nubank e VTEX, reconhecimento internacional pela PMA (Top 100 em 2021) e ensina na prática o que funciona no contexto brasileiro.
 
 Repare que esse texto nunca aparece em nenhum lugar público. Ele orienta o que eu comunico, como me posiciono em palestras, que projetos aceito, e como estruturo o discurso de valor nas conversas com clientes.
 
