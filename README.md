@@ -16,5 +16,9 @@ Para esse site eu uso um tema gratuito chamado [Type Theme](https://rohanchandra
 
 Você pode ver um demo do tema original aqui: [Demo](https://rohanchandra.github.io/type-theme/).
 
+# Fluxo editorial
+
+O fluxo de conteúdo assistido por IA agora usa um gate externo antes de qualquer branch `cms/posts/{slug}`. O playbook operacional está em [CONTENT_ENGINE.md](CONTENT_ENGINE.md).
+
 # License
 The MIT License (MIT)
