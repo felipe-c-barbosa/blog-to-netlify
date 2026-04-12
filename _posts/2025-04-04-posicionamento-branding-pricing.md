@@ -8,7 +8,7 @@ categories: marketing
 
 No cenário competitivo e saturado do mercado atual, onde os consumidores são constantemente bombardeados com uma infinidade de opções, destacar-se tornou-se um imperativo para a sobrevivência e o sucesso das empresas.
 
-Em meio a esse turbilhão de informações e ofertas, emerge um conceito fundamental no universo do marketing: o [posicionamento](como-posicionar-produtos-de-tecnologia). 
+Em meio a esse turbilhão de informações e ofertas, emerge um conceito fundamental no universo do marketing: o [posicionamento](/como-posicionar-produtos-de-tecnologia/). 
 
 De forma concisa, o posicionamento pode ser definido como o ato de **colocar uma marca na mente dos consumidores-alvo**, de modo que ela ocupe um lugar distinto e valorizado em relação aos concorrentes. 
 
@@ -16,6 +16,8 @@ Não se trata apenas do que a empresa faz, mas sim de como ela é percebida pelo
 Um posicionamento eficaz serve como a âncora da estratégia de marketing, influenciando todas as decisões, desde o desenvolvimento de produtos até as campanhas de comunicação e as estratégias de preço. 
 
 Compreender e executar uma estratégia de posicionamento bem-sucedida é, portanto, crucial para **distinguir a oferta de uma empresa da multidão e construir uma vantagem competitiva duradoura**. 
+
+Quando o desafio é levar isso ao mercado com times alinhados, o [plano de Go-to-Market](/o-que-e-go-to-market/) costuma ser o lugar onde posicionamento, pricing e escolha de canal se encontram.
 
 Este artigo explorará o conceito de posicionamento, desde os diversos tipos existentes até a sua intrínseca ligação com branding e pricing, oferecendo uma estrutura lógica para a sua criação e ilustrando com exemplos práticos de empresas que souberam conquistar um espaço único na mente de seus consumidores.
 

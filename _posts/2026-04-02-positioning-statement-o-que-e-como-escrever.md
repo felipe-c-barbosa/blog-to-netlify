@@ -9,7 +9,7 @@ A maioria das empresas que diz ter um positioning statement não tem. Tem um slo
 
 Isso importa porque positioning statement e slogan são ferramentas completamente diferentes com propósitos diferentes e audiências diferentes. Confundi-los custa caro: messaging inconsistente, time de vendas desalinhado, lançamentos que não ressoam.
 
-Esse post é sobre o que o positioning statement realmente é, para que serve, e como escrever um que funcione.
+Esse post é sobre o que o positioning statement realmente é, para que serve, e como escrever um que funcione. Se você quiser encaixar isso no quadro maior, o [guia de Go-to-Market](/o-que-e-go-to-market/) mostra como posicionamento conversa com ICP, canais e lançamento.
 
 ## O que é positioning statement (e o que não é)
 

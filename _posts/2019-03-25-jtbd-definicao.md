@@ -7,6 +7,8 @@ categories: produto
 ---
 Sei que por aí existem diversos textos bem completos sobre a definição de **Jobs To Be Done** além de livros muito bons sobre o assunto. Então, por que resolvi escrever esse? Porque acredito que juntando uma experiência pessoal de trabalho, com o que já estudo sobre marketing e comportamento de consumo além do que já li e conversei sobre JTBD posso contribuir para essa conversa.
 
+No contexto de produto, JTBD é um dos pilares de um [plano de Go-to-Market](/o-que-e-go-to-market/) sólido — vale ler o guia se você estiver montando ou revisando GTM.
+
 A inspiração desse artigo vem de uma conversa que tive aqui na [Plataformatec](https://plataformatec.com/) com os meus colegas onde trouxe uma visão geral sobre o assunto. 
 
 Trabalhamos com as mais inovadoras empresas de tecnologia e sei que algumas delas já falam e estão começando aplicar o [Jobs To Be Done](https://www.cursospm3.com.br/blog/qual-metodologia-adotar-para-aplicar-jobs-to-be-done/){:target="_blank"}. Por isso achei legal em trazer essa conversa internamente para que todos tenhamos referências sobre esse assunto.

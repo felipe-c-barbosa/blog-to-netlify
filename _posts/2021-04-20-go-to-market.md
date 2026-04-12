@@ -8,6 +8,8 @@ categories: business
 
 Caso você trabalhe em times de Marketing ou Produto já deve ter ouvido o termo [Go-To-Market](https://www.cursospm3.com.br/blog/como-fazer-uma-estrategia-de-go-to-market-bem-estruturada-para-o-seu-produto/){:target="_blank"} (GTM). Com uma preocupação maior nas empresas de tecnologia em serem mais efetivas no mercado, tenho visto um foco maior em executar da melhor forma possível essa estratégia. Mas o que siginifica trabalhar o **Go-To-Market**?
 
+**Atualização:** escrevi também um [guia completo sobre o que é Go-to-Market](/o-que-e-go-to-market/) com frameworks para PMMs (JTBD, posicionamento, canais, métricas) — é o aprofundamento que eu recomendo ler em conjunto com este texto.
+
 Primeiro, quero deixar uma coisa bem clara logo no início do texto:
 
 > O Go-To-Market não é apenas o lançamento.

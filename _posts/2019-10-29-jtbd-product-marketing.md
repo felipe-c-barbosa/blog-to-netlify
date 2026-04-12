@@ -14,7 +14,7 @@ Recentemente recebi o seguinte questionamento de uma pessoa que leu meu artigo [
 
 Isso me fez pensar sobre o assunto e cheguei a conclusão que a teoria e as ferramentas de entrevistas e das [forças do progresso](https://medium.com/jtbd/as-for%C3%A7as-do-progresso-da-teoria-dos-jobs-to-be-done-d1594b582d3d) ajudam também quando os produtos já foram desenvolvidos e estão no mercado.
 
-Para ilustrar isso vou pegar a minha área de atuação em [Marketing de Produto](/marketing-de-produto/).
+Para ilustrar isso vou pegar a minha área de atuação em [Marketing de Produto](/marketing-de-produto/). É o mesmo território em que entra a orquestração de [Go-to-Market](/o-que-e-go-to-market/) — do ICP à habilitação de vendas.
 
 Um profissional de **Marketing de Produto** costuma ser responsável pelas seguintes atividades: Análise de Clientes, Análise de Mercado e Concorrentes, Posicionamento de Produto e Messaging.
 

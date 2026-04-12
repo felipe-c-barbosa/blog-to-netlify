@@ -20,7 +20,7 @@ Se você não passou por isso vejo 3 cenários:
 
 Caso contrário, é provável que você tenha enfrentado a situação que eu falei. Digo isso porque eu passei por isso. Ainda mais se o seu papel é [Marketing de Produto](/marketing-de-produto/). Pode ter certeza que se esse é o seu papel e você tá chegando em uma empresa que não tinha ninguém focado, vai chover pedidos de lançamentos. 
 
-Mas de qualquer forma, seja você uma pessoa de Marketing de Produto ou uma pessoa do time de produto (um Product Manager talvez) que é a responsável por lançar, ver essa atividade como um processo com várias etapas a serem executadas, vai dar mais clareza para criar um lançamento mais efetivo.
+Mas de qualquer forma, seja você uma pessoa de Marketing de Produto ou uma pessoa do time de produto (um Product Manager talvez) que é a responsável por lançar, ver essa atividade como um processo com várias etapas a serem executadas, vai dar mais clareza para criar um lançamento mais efetivo. O lançamento é uma peça do quebra-cabeça; a camada estratégica por cima é o [Go-to-Market](/o-que-e-go-to-market/).
 
 ## Por que fazer um lançamento?
 

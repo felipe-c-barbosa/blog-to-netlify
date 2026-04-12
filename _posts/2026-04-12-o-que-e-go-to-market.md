@@ -28,7 +28,7 @@ Na prática, uma estratégia go to market responde quatro perguntas fundamentais
 
 Se você conseguir responder essas quatro perguntas com clareza e fazer com que Vendas, Produto, Marketing e Customer Success operem a partir das mesmas respostas, você tem um GTM funcional.
 
-O problema é que a maioria das empresas responde essas perguntas em silos. Cada time tem uma versão diferente da resposta. E aí o lançamento vira um telefone sem fio.
+O problema é que a maioria das empresas responde essas perguntas em silos. Cada time tem uma versão diferente da resposta. E aí o lançamento vira um telefone sem fio — o tipo de desalinhamento que uma [estratégia de go-to-market](/estrategia-go-to-market/) coerente existe para evitar (e que vai além do dia do lançamento).
 
 ### Diferença entre GTM, Plano de Marketing geral e Route-to-Market
 
@@ -50,13 +50,13 @@ Existe um equívoco comum sobre o que um Product Marketing Manager faz em um GTM
 
 Não é.
 
-O PMM é o regente da orquestra. Ele não toca todos os instrumentos, mas é responsável por fazer todos tocarem juntos, na mesma música, no mesmo tempo.
+O PMM é o regente da orquestra. Se você ainda está calibrando o que essa função cobre no dia a dia, o texto sobre [Marketing de Produto como marketing raiz](/marketing-de-produto/) ajuda a ancorar o papel antes de falar de orquestração. Ele não toca todos os instrumentos, mas é responsável por fazer todos tocarem juntos, na mesma música, no mesmo tempo.
 
 Na prática, isso significa:
 
-* Com Produto: o PMM traduz os jobs-to-be-done e insights de clientes em mensagens que comunicam valor real, não features. Ele também influencia o roadmap trazendo sinais de mercado.
-* Com Vendas: o PMM entrega playbooks, battle cards, scripts de discovery e treinamentos. Se o vendedor não sabe responder "por que vocês e não o concorrente?", o GTM falhou.
-* Com Customer Success: o PMM garante que o time de onboarding entenda qual é o aha moment do produto e como acelerar o tempo para o cliente perceber valor.
+* Com Produto: o PMM traduz [jobs-to-be-done](/jobs-to-be-done-product-marketing/) e insights de clientes em mensagens que comunicam valor real, não features. Ele também influencia o roadmap trazendo sinais de mercado.
+* Com Vendas: o PMM entrega playbooks, battle cards, scripts de discovery e treinamentos. Se o vendedor não sabe responder "por que vocês e não o concorrente?", o GTM falhou. O alinhamento comercial começa quando [Vendas e Produto](/vendas-e-produto/) não competem por narrativa.
+* Com Customer Success: o PMM garante que o time de [onboarding](/exemplo-estrutura-onboarding-produto/) entenda qual é o aha moment do produto e como acelerar o tempo para o cliente perceber valor.
 * Com Marketing de Conteúdo e Demanda: o PMM define a narrativa e as mensagens-chave. O time de conteúdo e paid media executa a partir desse briefing.
 
 Se o PMM está escrevendo todos os posts, rodando todas as campanhas e fazendo demos de produto ao mesmo tempo, o GTM está com problema estrutural, não de execução.
@@ -73,7 +73,7 @@ O ICP define a empresa ou perfil que mais se beneficia do produto e tem maior pr
 
 Mas ICP não é suficiente. Dentro do ICP, você tem personas com motivações diferentes: o comprador econômico, o usuário final, o influenciador técnico. Cada um tem dores distintas.
 
-É aqui que o framework **Jobs-to-be-Done (JTBD)** entra. Desenvolvido por Clayton Christensen, o JTBD parte de uma premissa simples: as pessoas não compram produtos, elas "contratam" produtos para fazer um trabalho específico em suas vidas ou rotinas.
+É aqui que o framework **Jobs-to-be-Done (JTBD)** entra. Desenvolvido por Clayton Christensen, o JTBD parte de uma premissa simples: as pessoas não compram produtos, elas "contratam" produtos para fazer um trabalho específico em suas vidas ou rotinas. Para uma [definição de Jobs to be Done](/jobs-to-be-done-definicao/) mais formal, há texto dedicado no blog; o [exemplo das paçocas](/pacoca-jobs-to-be-done/) continua sendo uma porta de entrada didática para o tema.
 
 Exemplo concreto: uma startup de gestão de projetos pode ter o ICP definido como "empresas de serviços com 20-100 colaboradores". Mas o job funcional do gestor de projetos é "garantir visibilidade do status das entregas sem precisar cobrar todo dia". E o job emocional é "parecer competente para os clientes". Esses são dois ângulos completamente diferentes para a mesma persona, e eles vão ditar mensagens totalmente distintas.
 
@@ -83,11 +83,11 @@ Cruzar JTBD com ICP é o que diferencia uma mensagem que ressoa de uma que só d
 
 Posicionamento não é o que você diz sobre o produto. É o que você quer que o cliente pense sobre o produto em relação às alternativas.
 
-O framework clássico de April Dunford em *Obviously Awesome* é cirúrgico aqui: posicionamento é escolher conscientemente em qual categoria competitiva você quer ser avaliado. Porque a categoria define os critérios de comparação.
+O framework clássico de April Dunford em *Obviously Awesome* é cirúrgico aqui: posicionamento é escolher conscientemente em qual categoria competitiva você quer ser avaliado. Porque a categoria define os critérios de comparação. Na prática de PMM, isso costuma virar um [positioning statement](/positioning-statement-o-que-e-como-escrever/) interno que alinha ICP, problema e diferencial antes de qualquer campanha.
 
-Uma ferramenta de gestão de projetos pode se posicionar como alternativa ao Excel para times pequenos, concorrente do Jira para squads de engenharia, ou sistema de operações para agências. Cada uma dessas escolhas muda o cliente que você atrai, a mensagem que você usa e os critérios pelos quais você compete. Escolher o posicionamento errado significa ser avaliado em dimensões que você não ganha.
+Uma ferramenta de gestão de projetos pode se posicionar como alternativa ao Excel para times pequenos, concorrente do Jira para squads de engenharia, ou sistema de operações para agências. Cada uma dessas escolhas muda o cliente que você atrai, a mensagem que você usa e os critérios pelos quais você compete. Escolher o [posicionamento](/essencia-estrategica-posicionamento/) errado significa ser avaliado em dimensões que você não ganha — tema relacionado à [miopia de marketing](/miopia-em-marketing-e-posicionamento/) quando a categoria foge do controle.
 
-A proposta de valor sai do posicionamento e do JTBD. Ela responde: "Para o nosso ICP, que precisa resolver X, nosso produto faz Y de uma forma que Z nenhum concorrente consegue." Sem fórmula mágica, mas com essa estrutura em mente.
+A proposta de valor sai do posicionamento e do JTBD. Ela responde: "Para o nosso ICP, que precisa resolver X, nosso produto faz Y de uma forma que Z nenhum concorrente consegue." Sem fórmula mágica, mas com essa estrutura em mente. Para produtos de tecnologia, [como posicionar](/como-posicionar-produtos-de-tecnologia/) em categorias disputadas é um passo à parte da frase de e-mail.
 
 ### 3. Pricing e Packaging
 
@@ -98,7 +98,7 @@ Um produto com freemium sinaliza: "confie antes de pagar". Um produto enterprise
 Packaging define o motion de venda. Três perguntas práticas:
 
 * O cliente consegue entender o que está pagando e por quê o próximo plano vale mais?
-* O packaging reflete os jobs-to-be-done de segmentos diferentes?
+* O packaging reflete os [jobs-to-be-done em motion de produto](/jobs-to-be-done-product-led-growth/) para segmentos diferentes?
 * O plano de entrada é generoso o suficiente para o cliente chegar ao aha moment antes de pagar?
 
 Pricing mal calibrado é causa silenciosa de churn e baixa conversão. E é um sintoma de não ter feito o trabalho de ICP e JTBD direito.
@@ -109,16 +109,20 @@ Canal não é plataforma. Canal é o mecanismo pelo qual o produto chega ao clie
 
 Os principais modelos de go-to-market strategy por canal:
 
-* PLG: o produto é o canal. O usuário experimenta e converte. Funciona quando o valor é percebido rápido e sem fricção, como no Slack, Figma ou Notion.
+* PLG: o produto é o canal — em outras palavras, [Product Led Growth](/desmistificando-product-led-growth/) como motor de aquisição. O usuário experimenta e converte. Funciona quando o valor é percebido rápido e sem fricção, como no Slack, Figma ou Notion.
 * SLG: a Vendas lidera. Ciclos longos, tickets altos, múltiplos stakeholders. Comum em enterprise B2B.
 * MLG: conteúdo, SEO e brand constroem demanda que converte via nurture. Comum em SaaS mid-market.
 * PLG + SLG híbrido: produto gera usuários, Vendas converte contas. HubSpot e Atlassian são os exemplos mais citados.
 
-A escolha do canal não é puramente de preferência, é função do ticket médio, complexidade da solução e maturidade do mercado.
+Para aprofundar o motion: [elementos de uma estratégia PLG](/elementos-estrategia-product-led-growth/) e a leitura em camadas de [estratégia, operações e táticas em PLG](/product-led-growth-estrategia-operacoes-tatica/).
+
+A escolha do canal não é puramente de preferência, é função do ticket médio, complexidade da solução e maturidade do mercado. Quando a narrativa de GTM não acompanha o produto, o mercado reage em público — o [caso do GTM do ChatGPT](/chatgpt-gtm/) é um lembrete disso.
 
 - - -
 
 ## Como montar uma estratégia de lançamento na prática
+
+Além do GTM como plano estratégico, vale ter um [processo de lançamento de novidades do produto](/lancamento-de-novidades-produto/) consistente: são camadas complementares — uma não substitui a outra.
 
 ### O GTM Canvas
 
@@ -231,7 +235,7 @@ Os blocos do checklist incluem:
 * Página de produto / landing page atualizada com nova mensagem
 * Battle cards e one-pager entregues para Vendas
 * Treinamento de Vendas realizado (pitch, objeções, perguntas de discovery)
-* Sequência de onboarding atualizada no CS
+* Sequência de [onboarding](/exemplo-estrutura-onboarding-produto/) atualizada no CS
 * Analytics e eventos de tracking configurados
 * PR e comunicação interna alinhadas
 * Critérios de sucesso do lançamento definidos (o que é um lançamento bem-sucedido em 30/60/90 dias?)
@@ -250,6 +254,8 @@ Se você está montando ou revisando o go to market strategy da sua empresa agor
 
 ### Próximos passos
 
-* Leia *Obviously Awesome* de April Dunford para aprofundar posicionamento
+* Leia *Obviously Awesome* de April Dunford para aprofundar posicionamento — e combine com o guia de [positioning statement](/positioning-statement-o-que-e-como-escrever/) e a [essência estratégica do posicionamento](/essencia-estrategica-posicionamento/) no blog
 * Leia *Crossing the Chasm* de Geoffrey Moore para entender a dinâmica de adoção no tempo
+* Aprofunde [Jobs to be Done](/jobs-to-be-done-definicao/) e o uso de [JTBD em Product Marketing](/jobs-to-be-done-product-marketing/)
+* Revise [Product Led Growth](/desmistificando-product-led-growth/) e o [processo de lançamento](/lancamento-de-novidades-produto/) como peças do mesmo quebra-cabeça de GTM
 * Acesse os outros posts sobre [Marketing](/marketing/) neste blog para ir além da teoria
