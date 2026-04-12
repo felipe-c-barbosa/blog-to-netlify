@@ -5,7 +5,6 @@ author: Felipe Barbosa
 permalink: /o-que-e-go-to-market/
 categories: marketing
 ---
-
 Você já viu um produto tecnicamente bom fracassar no mercado? Eu já. Várias vezes.
 
 A funcionalidade estava certa, o design era sólido, o time de engenharia entregou no prazo. Mas o produto morreu. Por quê? Porque o time de Vendas não sabia o que vender. Porque o CS não sabia para quem estavam entregando valor. Porque o marketing disparou campanha para um perfil de cliente errado. Cada time foi para um lado, e o produto foi a lugar nenhum.
@@ -14,7 +13,7 @@ Esse é o problema central que uma estratégia de Go-to-Market resolve, ou dever
 
 Neste guia você vai ver o que é go to market de verdade, além da definição de livro. Vai entender como o PMM funciona como o regente de uma orquestra, quais frameworks aplicar na prática, e como medir se o seu GTM está funcionando. No final, tem um checklist de lançamento que você pode usar no seu próximo projeto.
 
----
+- - -
 
 ## O que é uma estratégia de Go-to-Market?
 
@@ -22,10 +21,10 @@ Go-to-Market é o plano de como uma empresa leva um produto ao mercado. Simples 
 
 Na prática, uma estratégia go to market responde quatro perguntas fundamentais:
 
-- **Para quem** você está vendendo?
-- **O que** você está oferecendo e por que importa para eles?
-- **Como** você vai alcançá-los?
-- **A que preço** e em qual formato?
+* **Para quem** você está vendendo?
+* **O que** você está oferecendo e por que importa para eles?
+* **Como** você vai alcançá-los?
+* **A que preço** e em qual formato?
 
 Se você conseguir responder essas quatro perguntas com clareza e fazer com que Vendas, Produto, Marketing e Customer Success operem a partir das mesmas respostas, você tem um GTM funcional.
 
@@ -43,7 +42,7 @@ Route-to-Market é a rota de distribuição: quais canais e parceiros você usa 
 
 Confundir os três leva a reuniões que não terminam nunca e documentos que ninguém lê.
 
----
+- - -
 
 ## O papel do PMM no Go-to-Market: A Orquestração
 
@@ -55,16 +54,16 @@ O PMM é o regente da orquestra. Ele não toca todos os instrumentos, mas é res
 
 Na prática, isso significa:
 
-- Com Produto: o PMM traduz os jobs-to-be-done e insights de clientes em mensagens que comunicam valor real, não features. Ele também influencia o roadmap trazendo sinais de mercado.
-- Com Vendas: o PMM entrega playbooks, battle cards, scripts de discovery e treinamentos. Se o vendedor não sabe responder "por que vocês e não o concorrente?", o GTM falhou.
-- Com Customer Success: o PMM garante que o time de onboarding entenda qual é o aha moment do produto e como acelerar o tempo para o cliente perceber valor.
-- Com Marketing de Conteúdo e Demanda: o PMM define a narrativa e as mensagens-chave. O time de conteúdo e paid media executa a partir desse briefing.
+* Com Produto: o PMM traduz os jobs-to-be-done e insights de clientes em mensagens que comunicam valor real, não features. Ele também influencia o roadmap trazendo sinais de mercado.
+* Com Vendas: o PMM entrega playbooks, battle cards, scripts de discovery e treinamentos. Se o vendedor não sabe responder "por que vocês e não o concorrente?", o GTM falhou.
+* Com Customer Success: o PMM garante que o time de onboarding entenda qual é o aha moment do produto e como acelerar o tempo para o cliente perceber valor.
+* Com Marketing de Conteúdo e Demanda: o PMM define a narrativa e as mensagens-chave. O time de conteúdo e paid media executa a partir desse briefing.
 
 Se o PMM está escrevendo todos os posts, rodando todas as campanhas e fazendo demos de produto ao mesmo tempo, o GTM está com problema estrutural, não de execução.
 
 > **Boa prática:** Mapeie os stakeholders do seu GTM logo no início. Para cada pilar (mensagem, canal, habilitação, lançamento), defina RACI: quem é Responsável, quem é Accountable, quem é Consultado, quem é Informado. Sem isso, o PMM vira bombeiro.
 
----
+- - -
 
 ## Os 4 Pilares de um Plano GTM de Sucesso
 
@@ -98,9 +97,9 @@ Um produto com freemium sinaliza: "confie antes de pagar". Um produto enterprise
 
 Packaging define o motion de venda. Três perguntas práticas:
 
-- O cliente consegue entender o que está pagando e por quê o próximo plano vale mais?
-- O packaging reflete os jobs-to-be-done de segmentos diferentes?
-- O plano de entrada é generoso o suficiente para o cliente chegar ao aha moment antes de pagar?
+* O cliente consegue entender o que está pagando e por quê o próximo plano vale mais?
+* O packaging reflete os jobs-to-be-done de segmentos diferentes?
+* O plano de entrada é generoso o suficiente para o cliente chegar ao aha moment antes de pagar?
 
 Pricing mal calibrado é causa silenciosa de churn e baixa conversão. E é um sintoma de não ter feito o trabalho de ICP e JTBD direito.
 
@@ -110,14 +109,14 @@ Canal não é plataforma. Canal é o mecanismo pelo qual o produto chega ao clie
 
 Os principais modelos de go-to-market strategy por canal:
 
-- PLG: o produto é o canal. O usuário experimenta e converte. Funciona quando o valor é percebido rápido e sem fricção, como no Slack, Figma ou Notion.
-- SLG: a Vendas lidera. Ciclos longos, tickets altos, múltiplos stakeholders. Comum em enterprise B2B.
-- MLG: conteúdo, SEO e brand constroem demanda que converte via nurture. Comum em SaaS mid-market.
-- PLG + SLG híbrido: produto gera usuários, Vendas converte contas. HubSpot e Atlassian são os exemplos mais citados.
+* PLG: o produto é o canal. O usuário experimenta e converte. Funciona quando o valor é percebido rápido e sem fricção, como no Slack, Figma ou Notion.
+* SLG: a Vendas lidera. Ciclos longos, tickets altos, múltiplos stakeholders. Comum em enterprise B2B.
+* MLG: conteúdo, SEO e brand constroem demanda que converte via nurture. Comum em SaaS mid-market.
+* PLG + SLG híbrido: produto gera usuários, Vendas converte contas. HubSpot e Atlassian são os exemplos mais citados.
 
 A escolha do canal não é puramente de preferência, é função do ticket médio, complexidade da solução e maturidade do mercado.
 
----
+- - -
 
 ## Como montar uma estratégia de lançamento na prática
 
@@ -127,16 +126,16 @@ Antes de qualquer execução, o PMM precisa de um artefato central que todos os 
 
 Os blocos essenciais:
 
-| Bloco | Pergunta central |
-|---|---|
-| Segmento-alvo | Quem é o ICP e quais personas dentro dele? |
-| Jobs-to-be-Done | Que trabalho o produto realiza para eles? |
-| Posicionamento | Em qual categoria competimos? Por que ganhamos? |
-| Proposta de valor | Qual é o benefício principal em linguagem do cliente? |
-| Pricing & Packaging | Como vendemos e em qual formato? |
-| Canais | Como o cliente nos descobre e compra? |
-| Habilitação | O que Vendas e CS precisam para operar? |
-| Métricas de sucesso | Como sabemos que o GTM funcionou? |
+| Bloco               | Pergunta central                                      |
+| ------------------- | ----------------------------------------------------- |
+| Segmento-alvo       | Quem é o ICP e quais personas dentro dele?            |
+| Jobs-to-be-Done     | Que trabalho o produto realiza para eles?             |
+| Posicionamento      | Em qual categoria competimos? Por que ganhamos?       |
+| Proposta de valor   | Qual é o benefício principal em linguagem do cliente? |
+| Pricing & Packaging | Como vendemos e em qual formato?                      |
+| Canais              | Como o cliente nos descobre e compra?                 |
+| Habilitação         | O que Vendas e CS precisam para operar?               |
+| Métricas de sucesso | Como sabemos que o GTM funcionou?                     |
 
 O canvas não substitui os documentos de suporte, mas garante que todo mundo está olhando para o mesmo mapa.
 
@@ -146,10 +145,10 @@ Brian Balfour, ex-VP de Growth do HubSpot, argumenta que há quatro fits que um 
 
 A Matriz de Canais é uma ferramenta para cruzar canais potenciais com critérios objetivos:
 
-- Volume potencial: quantas pessoas o canal alcança dentro do ICP?
-- Custo de aquisição: quanto custa testar e escalar?
-- Fit com o perfil do cliente: onde o ICP já está? Onde ele consome informação e toma decisões?
-- Velocidade de validação: quanto tempo leva para ter dados suficientes para decidir?
+* Volume potencial: quantas pessoas o canal alcança dentro do ICP?
+* Custo de aquisição: quanto custa testar e escalar?
+* Fit com o perfil do cliente: onde o ICP já está? Onde ele consome informação e toma decisões?
+* Velocidade de validação: quanto tempo leva para ter dados suficientes para decidir?
 
 Faça isso para 5-8 canais candidatos e você vai conseguir priorizar 2 para executar bem, em vez de fazer 8 pela metade.
 
@@ -163,7 +162,7 @@ A solução de Moore é o "bowling pin strategy": dominar um nicho específico p
 
 Para o PMM, a sinalização prática é: se os deals começam a pedir mais social proof, mais cases de empresas similares, e o argumento de ser pioneiro no setor já não resolve as objeções, você está na beira do abismo.
 
----
+- - -
 
 ## Métricas e KPIs do PMM: Medindo o sucesso do Go-to-Market
 
@@ -172,23 +171,26 @@ PMM é historicamente a função mais difícil de medir em marketing. Mas isso n
 As métricas se dividem em três camadas:
 
 #### Métricas de lançamento (curto prazo)
-- Cobertura de pipeline gerado no primeiro ciclo após o lançamento
-- Velocidade de qualificação: o ICP está entrando ou o canal está trazendo ruído?
-- Win rate nos primeiros deals do novo segmento ou produto
+
+* Cobertura de pipeline gerado no primeiro ciclo após o lançamento
+* Velocidade de qualificação: o ICP está entrando ou o canal está trazendo ruído?
+* Win rate nos primeiros deals do novo segmento ou produto
 
 #### Métricas de habilitação (indicadores de processo)
-- % de vendedores que passaram pelo treinamento do GTM
-- Uso de battle cards e materiais de sales enablement
-- Qualidade das demo calls, via call review com critérios definidos pelo PMM
+
+* % de vendedores que passaram pelo treinamento do GTM
+* Uso de battle cards e materiais de sales enablement
+* Qualidade das demo calls, via call review com critérios definidos pelo PMM
 
 #### Métricas de longo prazo (impacto do posicionamento)
-- Share of voice em pesquisas de categoria: quando clientes pesquisam por solução, você aparece?
-- NPS segmentado por ICP: clientes no perfil ideal estão mais satisfeitos que o restante?
-- Churn por segmento: se o ICP está certo, o churn nesse perfil deve ser menor
+
+* Share of voice em pesquisas de categoria: quando clientes pesquisam por solução, você aparece?
+* NPS segmentado por ICP: clientes no perfil ideal estão mais satisfeitos que o restante?
+* Churn por segmento: se o ICP está certo, o churn nesse perfil deve ser menor
 
 Uma armadilha comum: usar métricas de awareness (impressões, pageviews) como proxy de sucesso de GTM. Awareness é um meio, não um fim. O PMM precisa conectar a sua atividade a receita, mesmo que seja via correlação com pipeline.
 
----
+- - -
 
 ## Exemplos de Orquestração GTM
 
@@ -196,11 +198,11 @@ Uma armadilha comum: usar métricas de awareness (impressões, pageviews) como p
 
 Uma empresa de automação de marketing que atendia e-commerce decide expandir para agências digitais. O produto é o mesmo, mas o GTM precisa ser novo:
 
-- ICP novo: agências com 5-30 funcionários, com clientes em múltiplos setores
-- Job novo: "gerenciar campanhas de múltiplos clientes sem trocar de ferramenta ou perder contexto"
-- Canal dominante: comunidades de agências, parcerias com CRMs e plataformas de anúncio, conteúdo especializado
-- Habilitação: o time de vendas precisou aprender um novo vocabulário. "Suas campanhas" virou "campanhas dos seus clientes". Detalhe que muda a conversa inteira.
-- Métrica de sucesso: expansão de MRR por conta. Agências têm múltiplos sub-clientes, então o potencial de expansão supera o do e-commerce direto.
+* ICP novo: agências com 5-30 funcionários, com clientes em múltiplos setores
+* Job novo: "gerenciar campanhas de múltiplos clientes sem trocar de ferramenta ou perder contexto"
+* Canal dominante: comunidades de agências, parcerias com CRMs e plataformas de anúncio, conteúdo especializado
+* Habilitação: o time de vendas precisou aprender um novo vocabulário. "Suas campanhas" virou "campanhas dos seus clientes". Detalhe que muda a conversa inteira.
+* Métrica de sucesso: expansão de MRR por conta. Agências têm múltiplos sub-clientes, então o potencial de expansão supera o do e-commerce direto.
 
 O PMM orquestrou: redesenhou o posicionamento e a mensagem, treinou Vendas, trabalhou com Produto para adicionar um feature de multi-tenant que era o deal-breaker do segmento, e coordenou o lançamento com o time de CS para ajustar o onboarding.
 
@@ -212,7 +214,7 @@ A análise mostrou que o público restante precisava de mais prova social de pes
 
 O PMM identificou o abismo, redefiniu a mensagem para a maioria pragmática, fez parcerias com influenciadores de nicho com audiência específica e ajustou o onboarding para mostrar resultados mais rápido. O crescimento voltou a escalar.
 
----
+- - -
 
 ## Extra: Como usar um Checklist de Lançamento GTM
 
@@ -224,19 +226,17 @@ Ele serve como gate de qualidade: se itens críticos do checklist não estão pr
 
 Os blocos do checklist incluem:
 
-- [ ] ICP e personas documentados e validados com Vendas e CS
-- [ ] Proposta de valor aprovada por stakeholders
-- [ ] Página de produto / landing page atualizada com nova mensagem
-- [ ] Battle cards e one-pager entregues para Vendas
-- [ ] Treinamento de Vendas realizado (pitch, objeções, perguntas de discovery)
-- [ ] Sequência de onboarding atualizada no CS
-- [ ] Analytics e eventos de tracking configurados
-- [ ] PR e comunicação interna alinhadas
-- [ ] Critérios de sucesso do lançamento definidos (o que é um lançamento bem-sucedido em 30/60/90 dias?)
+* ICP e personas documentados e validados com Vendas e CS
+* Proposta de valor aprovada por stakeholders
+* Página de produto / landing page atualizada com nova mensagem
+* Battle cards e one-pager entregues para Vendas
+* Treinamento de Vendas realizado (pitch, objeções, perguntas de discovery)
+* Sequência de onboarding atualizada no CS
+* Analytics e eventos de tracking configurados
+* PR e comunicação interna alinhadas
+* Critérios de sucesso do lançamento definidos (o que é um lançamento bem-sucedido em 30/60/90 dias?)
 
-> **Isca de conteúdo:** Disponibilize o GTM Launch Checklist completo para download em troca do e-mail. É um dos ativos de maior conversão para PMMs e profissionais de marketing de produto porque resolve um problema real e imediato.
-
----
+- - -
 
 ## Conclusão
 
@@ -250,7 +250,6 @@ Se você está montando ou revisando o go to market strategy da sua empresa agor
 
 ### Próximos passos
 
-- Baixe o GTM Launch Checklist e use como ponto de partida para o seu próximo lançamento
-- Leia *Obviously Awesome* de April Dunford para aprofundar posicionamento
-- Leia *Crossing the Chasm* de Geoffrey Moore para entender a dinâmica de adoção no tempo
-- Acesse os outros posts sobre [Product Marketing](/product-marketing/) neste blog para ir além da teoria
+* Leia *Obviously Awesome* de April Dunford para aprofundar posicionamento
+* Leia *Crossing the Chasm* de Geoffrey Moore para entender a dinâmica de adoção no tempo
+* Acesse os outros posts sobre [Marketing](/marketing/) neste blog para ir além da teoria
