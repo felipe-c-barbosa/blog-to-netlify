@@ -1,13 +1,44 @@
 ---
 layout: default
 ---
+{% assign words = content | number_of_words %}
+{% assign reading_time = words | divided_by: 200 %}
+{% if reading_time < 1 %}{% assign reading_time = 1 %}{% endif %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "{{ page.title | escape }}",
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.date | date_to_xmlschema }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author | default: site.theme_settings.author | escape }}",
+    "url": "{{ site.url }}"
+  },
+  "publisher": {
+    "@type": "Person",
+    "name": "{{ site.theme_settings.author | escape }}"
+  },
+  "url": "{{ page.url | absolute_url }}",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ page.url | absolute_url }}"
+  }{% if page.feature-img %},
+  "image": "{{ page.feature-img | absolute_url }}"{% elsif site.theme_settings.image %},
+  "image": "{{ site.theme_settings.image }}"{% endif %}
+}
+</script>
+
 <article {% if page.feature-img %}class="feature-image"{% endif %}>
   <header style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')">
     <h1 class="title">{{ page.title }}</h1>
     <p class="meta">
     {{ page.date | date: "%B %-d, %Y" }}
-    {% if page.author %} - <a href="https://www.linkedin.com/in/felipecardosobarbosa/" target="_blank">{{ page.author }}</a>{% endif %}
-    {% if page.categories %} - <a href="https://www.felipebarbosa.me/{{ page.categories }}" target="_blank">{{ page.categories }}</a>{% endif %}
+    &middot; {{ reading_time }} min de leitura
+    {% if page.author %} &middot; <a href="https://www.linkedin.com/in/felipecardosobarbosa/" target="_blank">{{ page.author }}</a>{% endif %}
+    {% if page.categories %} &middot; <a href="https://www.felipebarbosa.me/{{ page.categories }}" target="_blank">{{ page.categories }}</a>{% endif %}
     </p>
   </header>
   <section class="post-content">{{ content }}</section>
@@ -32,7 +63,7 @@ layout: default
     <a id="prev-post" href="{{ site.baseurl }}{{ page.previous.url }}">
       <span class="page-title">{{ page.previous.title }}</span>
       <span class="nav-label">
-        <i class="fa fa-chevron-left"></i> {{ site.theme_settings.str_prev }}
+        &larr; {{ site.theme_settings.str_prev }}
       </span>
     </a>
     {% endif %}
@@ -40,7 +71,7 @@ layout: default
     <a id="next-post" href="{{ site.baseurl }}{{ page.next.url }}">
        <span class="page-title">{{ page.next.title }}</span>
        <span class="nav-label">
-        {{ site.theme_settings.str_next }} <i class="fa fa-chevron-right"></i>
+        {{ site.theme_settings.str_next }} &rarr;
        </span>
      </a>
     {% endif %}
