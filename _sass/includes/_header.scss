@@ -126,7 +126,7 @@
       &.is-open {
         display: flex;
         flex-direction: column;
-        align-items: flex-start;
+        align-items: center;
         position: absolute;
         top: 100%;
         left: 0;
@@ -144,7 +144,7 @@
           position: static;
           transform: none;
           flex-direction: column;
-          align-items: flex-start;
+          align-items: center;
           width: 100%;
 
           li {
