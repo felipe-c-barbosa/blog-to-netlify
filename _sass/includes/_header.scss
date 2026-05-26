@@ -113,6 +113,11 @@
       margin-right: 1.2em;
     }
 
+    a.page-link {
+      font-size: .9rem;
+      font-weight: 500;
+    }
+
     @media (max-width: 1100px) {
       // Hidden by default on mobile
       display: none;
