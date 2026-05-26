@@ -20,23 +20,23 @@
 	</button>
 	<nav class="site-nav">
 		<ul>
-			{% for page in site.pages %}
-			{% if page.menu and page.hide != true %}
+			{% for nav_page in site.pages %}
+			{% if nav_page.menu and nav_page.hide != true %}
 			<li>
-				<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">
-					{{ page.menu }}
+				<a class="page-link" href="{{ nav_page.url | prepend: site.baseurl }}"{% if nav_page.url == page.url %} aria-current="page"{% endif %}>
+					{{ nav_page.menu }}
 				</a>
 			</li>
 			{% endif %}
 			{% endfor %}
 			<li>
 				<a class="page-link page-link--consultoria" href="https://consultoria.felipebarbosa.me">
-					Consultoria ↗
+					Consultoria
 				</a>
 			</li>
 		</ul>
 		<ul class="clearfix">
-			<!-- Social icons from Font Awesome, if enabled -->
+			<!-- Social icons -->
 			{% include icons.html %}
 		</ul>
 	</nav>
