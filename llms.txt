@@ -1,0 +1,31 @@
+# Felipe Barbosa — Blog
+
+> Blog sobre Marketing de Produto, Produto e Estratégia de Negócios. Escrito por Felipe Barbosa, Product Marketing Manager com mais de 10 anos de experiência em empresas B2B e SaaS no Brasil.
+
+## Sobre o autor
+
+Felipe Barbosa é Marketing Manager na Nubank, instrutor de Product Marketing na PM3 e embaixador da Product Marketing Alliance no Brasil. Atuou em empresas como VTEX, Cortex Intelligence, Plataformatec e RedeHost/Umbler. É reconhecido como Top 100 influenciador global de PMM pela PMA (2021).
+
+## Tópicos principais
+
+- Marketing de Produto (Product Marketing)
+- Go-to-Market (GTM)
+- Posicionamento e Messaging
+- Estratégia de Negócios
+- Product Management
+- Marketing B2B e SaaS
+- Liderança de times de PMM
+
+## Páginas principais
+
+- [Blog](https://felipebarbosa.me): Artigos sobre Marketing, Produto e Estratégia
+- [Sobre](https://felipebarbosa.me/sobre/): Quem é Felipe Barbosa — experiência e trajetória profissional
+- [Consultoria](https://consultoria.felipebarbosa.me): Serviços de consultoria em Marketing de Produto para empresas B2B e SaaS
+- [Leituras Recentes](https://felipebarbosa.me/leituras/): Livros e leituras recomendadas
+- [Feed RSS](https://felipebarbosa.me/feed.xml): Feed de novos artigos
+
+## Contato e redes
+
+- LinkedIn: https://www.linkedin.com/in/felipecardosobarbosa
+- GitHub: https://github.com/felipe-c-barbosa
+- Medium: https://www.felipebarbosa.me/medium/
