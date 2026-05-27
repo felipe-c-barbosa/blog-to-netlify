@@ -6,7 +6,7 @@ permalink: /usar-chatgpt-para-conteudo-marketing/
 categories: marketing
 ---
 
-Não tem como negar que o assunto do momento no Twitter do pessoal de tecnologia é o ChatGPT. De fato é um fenômeno, com milhões de usuários testando e utilizando a plataforma de Inteligência Artificial. Um dos casos que falam é como ajuda na geração de textos e conteúdos para empresas. A partir disso resolvi testar: como a IA se sai se pessoas diferentes utilizarem o mesmo prompt?
+Não tem como negar que o assunto do momento no Twitter do pessoal de tecnologia é o ChatGPT. De fato é um fenômeno, com milhões de usuários testando e utilizando a plataforma de <a href="https://www.felipebarbosa.me/ia-product-marketing-guia-pmm/" target="_blank" rel="noopener noreferrer">Inteligência Artificial</a>. Um dos casos que falam é como ajuda na geração de textos e conteúdos para empresas. A partir disso resolvi testar: como a IA se sai se pessoas diferentes utilizarem o mesmo prompt?
 
 Pensei nessa situação porque imagino o seguinte acontecendo: no início teremos uma maior diversidade de profissionais, produtos e empresas utilizando no dia-a-dia para gerar conteúdos a partir do ChatGPT.
 

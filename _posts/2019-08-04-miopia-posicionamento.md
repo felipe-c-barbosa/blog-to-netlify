@@ -212,7 +212,7 @@ No livro (e no artigo da Userlist) você terá todos os detalhes mas tem um temp
 
 ![Positioning Template](https://hackernoon.com/hn-images/1*Dk84FmRW-j3bAcfQ2DefrA.png)
 
-Um outro modelo bem famoso é o do livro *Crossing the Chasm*, do Geoffrey Moore. O *Positioning Statement Template*:
+Um outro modelo bem famoso é o do livro *Crossing the Chasm*, do Geoffrey Moore. O *<a href="https://www.felipebarbosa.me/positioning-statement-o-que-e-como-escrever/" target="_blank" rel="noopener noreferrer">Positioning Statement Template</a>*:
 
 ![Positioning Statement Template](https://predictprofit.files.wordpress.com/2015/03/post-5-series-2.png)
 

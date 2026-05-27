@@ -17,7 +17,7 @@ Um posicionamento eficaz serve como a âncora da estratégia de marketing, influ
 
 Compreender e executar uma estratégia de posicionamento bem-sucedida é, portanto, crucial para **distinguir a oferta de uma empresa da multidão e construir uma vantagem competitiva duradoura**. 
 
-Quando o desafio é levar isso ao mercado com times alinhados, o [plano de Go-to-Market](/o-que-e-go-to-market/) costuma ser o lugar onde posicionamento, pricing e escolha de canal se encontram.
+Quando o desafio é levar isso ao mercado com times alinhados, o <a href="https://www.felipebarbosa.me/o-que-e-go-to-market/" target="_blank" rel="noopener noreferrer">plano de Go-to-Market</a> costuma ser o lugar onde posicionamento, pricing e escolha de canal se encontram.
 
 Este artigo explorará o conceito de posicionamento, desde os diversos tipos existentes até a sua intrínseca ligação com branding e pricing, oferecendo uma estrutura lógica para a sua criação e ilustrando com exemplos práticos de empresas que souberam conquistar um espaço único na mente de seus consumidores.
 

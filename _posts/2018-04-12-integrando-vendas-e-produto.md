@@ -116,7 +116,7 @@ Lembro que na Umbler quando estava trabalhando no novo fluxo de onboarding de us
 
 Mesmo que grande parte fosse self-service, as maiores vendas passavam pela equipe comercial então estávamos de olho nisso.
 
-Se o time de Produto se compromete com a experiência e a entrega de algo que vá ajudar na geração dos PQLs para que o time de Vendas feche mais negócios e o time de Vendas se comprometa em trabalhar e tratar bem essas pessoas que estão sendo qualificadas, acredito que temos um começo para fazer essa aproximação.
+Se o time de Produto se compromete com a experiência e a entrega de algo que vá ajudar na geração dos <a href="https://www.felipebarbosa.me/pirate-metrics/" target="_blank" rel="noopener noreferrer">PQLs</a> para que o time de Vendas feche mais negócios e o time de Vendas se comprometa em trabalhar e tratar bem essas pessoas que estão sendo qualificadas, acredito que temos um começo para fazer essa aproximação.
 
 Ela não precisa ser sobre o caminho que o produto deve tomar, sobre roadmap ou coisas que afetariam o trabalho diário do time de Produto. E também não aconteceria um caso do tipo "te vira para vender isso".
 

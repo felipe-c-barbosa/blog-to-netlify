@@ -37,7 +37,7 @@ O mesmo vale para transcrições de entrevistas de cliente, tickets de suporte e
 
 LLMs são bons em rascunhos. Não em posicionamento.
 
-Essa distinção é crítica. Você não pede para a IA "criar o posicionamento do produto." Você define o posicionamento e usa IA para gerar 10 variações de headline, 5 versões de one-liner, ou rascunhos de email para teste A/B.
+Essa distinção é crítica. Você não pede para a IA "criar o <a href="https://www.felipebarbosa.me/como-posicionar-produtos-de-tecnologia/" target="_blank" rel="noopener noreferrer">posicionamento do produto</a>." Você define o posicionamento e usa IA para gerar 10 variações de headline, 5 versões de one-liner, ou rascunhos de email para teste A/B.
 
 O processo que funciona:
 
@@ -46,7 +46,7 @@ O processo que funciona:
 3. Você avalia: o que ressoa com o que você sabe do cliente
 4. Você testa: com clientes reais ou dados de performance
 
-Não pule o passo 1. Posicionamento mal definido mais IA gera ruído com velocidade industrial.
+Não pule o passo 1. <a href="https://www.felipebarbosa.me/positioning-statement-o-que-e-como-escrever/" target="_blank" rel="noopener noreferrer">Posicionamento mal definido</a> mais IA gera ruído com velocidade industrial.
 
 ### 3. Sales enablement com mais velocidade
 
@@ -75,7 +75,7 @@ Aplicações concretas:
 
 Preciso ser honesto sobre os limites porque subestimá-los é onde os erros acontecem.
 
-**Decisões de posicionamento:** não são delegáveis para IA. Positioning é uma escolha estratégica sobre para quem você quer ser relevante, e para quem você escolhe não ser. Ela envolve trade-offs que exigem julgamento de negócio, contexto histórico da empresa, e leitura de mercado que a IA não tem.
+**<a href="https://www.felipebarbosa.me/essencia-estrategica-posicionamento/" target="_blank" rel="noopener noreferrer">Decisões de posicionamento</a>:** não são delegáveis para IA. Positioning é uma escolha estratégica sobre para quem você quer ser relevante, e para quem você escolhe não ser. Ela envolve trade-offs que exigem julgamento de negócio, contexto histórico da empresa, e leitura de mercado que a IA não tem.
 
 **Alinhamento com stakeholders:** é trabalho humano. Nenhum LLM vai convencer o time de vendas de que o novo messaging faz sentido, ou negociar com produto a prioridade de features para o próximo lançamento.
 

@@ -28,7 +28,7 @@ Então pra mim é fato que o Slack teve um efeito muito grande no que se viu nos
 
 Mas porque estou falando do Slack se o assunto do título desse post é o ChatGTP? 
 
-Porque quero mostrar que o hype da época sobre como o Slack funcionava e tudo quanto era startup queria replicar a mesma coisa parece a mesma situação sobre os ensinamentos que o pessoal quer passar sobre o Go-To-Market e estratégia de crescimento escolhida pela empresa.
+Porque quero mostrar que o hype da época sobre como o Slack funcionava e tudo quanto era startup queria replicar a mesma coisa parece a mesma situação sobre os ensinamentos que o pessoal quer passar sobre o <a href="https://www.felipebarbosa.me/o-que-e-go-to-market/" target="_blank" rel="noopener noreferrer">Go-To-Market</a> e estratégia de crescimento escolhida pela empresa.
 
 Passei por isso lá atrás.
 
@@ -62,7 +62,7 @@ E agora, no meio do olho do furacão do mercado chegam as análises sobre o Chat
 
 Desde o fim do ano passado, com mais força no início desse ano tem aparecido, dia sim, outro dia também, alguma análise sobre o sucesso da ferramenta.
 
-É sobre o número de usuários ativos, é sobre o Go-To-Market, é sobre ser Product-Led.
+É sobre o número de usuários ativos, é sobre o Go-To-Market, é sobre ser <a href="https://www.felipebarbosa.me/desmistificando-product-led-growth/" target="_blank" rel="noopener noreferrer">Product-Led</a>.
 
 É sobre o fenômeno que deve servir de exemplo. Tudo acontecendo de novo como sempre acontece no meio tech. Somos muito emocionados com tudo que chega até nós.
 
