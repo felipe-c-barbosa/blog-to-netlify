@@ -10,7 +10,7 @@ theme_settings:
   description: "Um blog para falar sobre Marketing, Produto e Estratégia de Negócios." # used by search engines
   author: Felipe Barbosa
   name: Felipe Barbosa
-  locale: pt-br
+  locale: pt_BR
   image: https://res.cloudinary.com/felipe-barbosa/image/upload/v1677306860/Brand%20Assets/social-image-og-alternative-b.png
   
   # Header and footer text
@@ -39,7 +39,7 @@ theme_settings:
   stack_exchange:  # Full URL
   ideas: # https://portal.prodpad.com/b80a11cc-6d54-11e7-9642-22000a2145da
   cv: 
-  twitter:
+  twitter: felipecb_
   medium: https://www.felipebarbosa.me/medium/
   ajuda: # https://ajuda.felipebarbosa.me/
 
