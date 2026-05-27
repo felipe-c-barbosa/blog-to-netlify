@@ -26,7 +26,16 @@ body {
   font-family: $font-family-main;
   font-size: $font-size;
   word-wrap: break-word;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
+
+:focus-visible {
+  outline: 2px solid #3f04bf;
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: $font-family-headings;
   line-height: 1.3;
