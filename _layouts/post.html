@@ -9,17 +9,18 @@ layout: default
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
+  "@id": "{{ page.url | absolute_url }}",
   "headline": "{{ page.title | escape }}",
   "description": "{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | escape }}",
   "datePublished": "{{ page.date | date_to_xmlschema }}",
-  "dateModified": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
   "wordCount": {{ words }},
   "inLanguage": "pt-BR",
   "author": {
     "@type": "Person",
     "name": "{{ page.author | default: site.theme_settings.author | escape }}",
     "url": "{{ site.url }}/sobre/",
-    "sameAs": "https://www.linkedin.com/in/felipecardosobarbosa"
+    "sameAs": ["https://www.linkedin.com/in/felipecardosobarbosa", "https://twitter.com/felipecb_"]
   },
   "publisher": {
     "@type": "Organization",
