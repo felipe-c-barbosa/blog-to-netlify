@@ -1,23 +1,16 @@
 <head>
 	<meta charset="utf-8">
-	<title>{% if page.title %}{{ page.title }} | {{ site.theme_settings.title }}{% else %}{{ site.theme_settings.title
-		}} - Marketing, Produto e Estratégia de Negócios.{% endif %}</title>
-	<meta name="description"
-		content="{% if page.description %}{{ page.description | strip_html | strip_newlines | escape }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | escape }}{% else %}{{ site.theme_settings.description | escape }}{% endif %}">
+	<title>{% if page.title %}{{ page.title }} | {{ site.theme_settings.title }}{% else %}{{ site.theme_settings.title }} - Marketing, Produto e Estratégia de Negócios.{% endif %}</title>
+	<meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | escape }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | escape }}{% else %}{{ site.theme_settings.description | escape }}{% endif %}">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<!-- Open Graph Tags -->
-	<meta property="og:title"
-		content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.theme_settings.title | escape }}{% endif %}" />
+	<meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.theme_settings.title | escape }}{% endif %}" />
 	<meta property="og:site_name" content="{{ site.theme_settings.title | escape }}" />
 	<meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}" />
 
-	{% if page.excerpt or site.theme_settings.description %}
-	<meta property="og:description"
-		content="{% if page.excerpt %}{{ page.excerpt | strip_html | normalize_whitespace | truncate: 160 | escape }}{% else %}{{ site.theme_settings.description }}{% endif %}" />
 	{% if page.description or page.excerpt or site.theme_settings.description %}
-	<meta property="og:description"
-		content="{% if page.description %}{{ page.description | strip_html | escape }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | normalize_whitespace | truncate: 160 | escape }}{% else %}{{ site.theme_settings.description | escape }}{% endif %}" />
+	<meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | escape }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | normalize_whitespace | truncate: 160 | escape }}{% else %}{{ site.theme_settings.description | escape }}{% endif %}" />
 	{% endif %}
 
 	<meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}" />
@@ -27,15 +20,13 @@
 	{% endif %}
 
 	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:card" content="summary_large_image" />
 
 	{% if site.theme_settings.twitter %}
 	<meta name="twitter:site" content="@{{ site.theme_settings.twitter }}" />
 	{% endif %}
 
 	{% if page.twitter or site.theme_settings.twitter %}
-	<meta name="twitter:creator"
-		content="{% if page.twitter %}@{{ page.twitter }}{% else %}@{{ site.theme_settings.twitter }}{% endif %}" />
+	<meta name="twitter:creator" content="{% if page.twitter %}@{{ page.twitter }}{% else %}@{{ site.theme_settings.twitter }}{% endif %}" />
 	{% endif %}
 
 	{% if site.theme_settings.locale %}
@@ -45,13 +36,9 @@
 	{% if page.feature-img %}
 	<meta property="og:image" content="{{ page.feature-img | absolute_url }}" />
 	<meta name="twitter:image" content="{{ page.feature-img | absolute_url }}" />
-	<!-- Open Graph Image -->
-	<meta property="og:image" content="{{ page.feature-img | absolute_url }}" />
 	{% elsif site.theme_settings.image %}
-	<meta property="og:image" content="{{ site.theme_settings.image }}" />
-	<meta name="twitter:image" content="{{ site.theme_settings.image }}" />
-	<!-- Open Graph Image -->
 	<meta property="og:image" content="{{ site.theme_settings.image | absolute_url }}" />
+	<meta name="twitter:image" content="{{ site.theme_settings.image | absolute_url }}" />
 	{% endif %}
 
 	<!-- Google, Bing, Pinterest, Majestic and Facebook Meta Verification -->
@@ -65,33 +52,26 @@
 	<meta name="theme-color" content="#150140">
 
 	<!-- CSS -->
-	<link rel="stylesheet" href="{{ " /css/main.css" | prepend: site.baseurl }}">
+	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 
 	<!--Favicon-->
-	<link rel="shortcut icon" href="{{ " /favicon.ico" | prepend: site.baseurl }}" type="image/x-icon">
+	<link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" type="image/x-icon">
 
 	<!-- Canonical -->
-	<link rel="canonical"
-		href="{% if page.canonical %}{{ page.canonical }}{% else %}{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}{% endif %}">
-	<link rel="canonical"
-		href="{% if page.canonical %}{{ page.canonical }}{% else %}{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}{% endif %}">
+	<link rel="canonical" href="{% if page.canonical %}{{ page.canonical }}{% else %}{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}{% endif %}">
 
 	<!-- RSS -->
-	<link rel="alternate" type="application/atom+xml" title="{{ site.theme_settings.title }}" href="{{ " /feed.xml" |
-		prepend: site.baseurl | prepend: site.url }}" />
+	<link rel="alternate" type="application/atom+xml" title="{{ site.theme_settings.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
 	<!-- Google Fonts -->
 	{% if site.theme_settings.google_fonts %}
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link href="https://fonts.googleapis.com/css2?family={{ site.theme_settings.google_fonts }}&display=swap"
-		rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family={{ site.theme_settings.google_fonts }}&display=swap" rel="stylesheet">
 	{% endif %}
 
 	<!-- Hubspot Tracker -->
-	<!-- Start of HubSpot Embed Code -->
 	<script type="text/javascript" id="hs-script-loader" async defer src="//js-na1.hs-scripts.com/50933491.js"></script>
-	<!-- End of HubSpot Embed Code -->
 
 	<!-- Analytics GA4 -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=G-QQNXJB6LH4"></script>
@@ -114,33 +94,34 @@
 				analytics.page();
 			}
 		}();
-		<!-- JSON-LD Dinâmico para Posts (AEO) -->
-		{% if page.layout == 'post' %}
-		<script type="application/ld+json">
-			{
-				"@context": "https://schema.org",
-			"@type": "BlogPosting",
-			"headline": "{{ page.title | escape }}",
-			"image": "{% if page.feature-img %}{{ page.feature - img | absolute_url }}{% else %}{{ site.theme_settings.image }}{% endif %}",
-			"datePublished": "{{ page.date | date_to_xmlschema }}",
-			"dateModified": "{% if page.last_modified_at %}{{ page.last_modified_at | date_to_xmlschema }}{% else %}{{ page.date | date_to_xmlschema }}{% endif %}",
-			"author": {
-				"@type": "Person",
+	</script>
+
+	<!-- JSON-LD Dinâmico para Posts (AEO) -->
+	{% if page.layout == 'post' %}
+	<script type="application/ld+json">
+	{
+		"@context": "https://schema.org",
+		"@type": "BlogPosting",
+		"headline": "{{ page.title | escape }}",
+		"image": "{% if page.feature-img %}{{ page.feature-img | absolute_url }}{% else %}{{ site.theme_settings.image }}{% endif %}",
+		"datePublished": "{{ page.date | date_to_xmlschema }}",
+		"dateModified": "{% if page.last_modified_at %}{{ page.last_modified_at | date_to_xmlschema }}{% else %}{{ page.date | date_to_xmlschema }}{% endif %}",
+		"author": {
+			"@type": "Person",
 			"name": "{{ page.author | default: site.theme_settings.author }}",
 			"url": "https://www.linkedin.com/in/felipecardosobarbosa/"
-	  },
-			"publisher": {
-				"@type": "Organization",
+		},
+		"publisher": {
+			"@type": "Organization",
 			"name": "{{ site.theme_settings.title }}",
 			"logo": {
 				"@type": "ImageObject",
-			"url": "https://res.cloudinary.com/felipe-barbosa/image/upload/v1677279984/Brand%20Assets/felipe_barbosa-logo-icon-alternative.png"
-	    }
-	  },
-			"description": "{% if page.description %}{{ page.description | strip_html | escape }}{% else %}{{ page.excerpt | strip_html | truncate: 160 | escape }}{% endif %}"
+				"url": "https://res.cloudinary.com/felipe-barbosa/image/upload/v1677279984/Brand%20Assets/felipe_barbosa-logo-icon-alternative.png"
+			}
+		},
+		"description": "{% if page.description %}{{ page.description | strip_html | escape }}{% else %}{{ page.excerpt | strip_html | truncate: 160 | escape }}{% endif %}"
 	}
 	</script>
-
 	{% endif %}
 
 </head>
