@@ -16,7 +16,7 @@ Quando falamos em **Posicionamento**, é como as pessoas enxergam e assimilam o 
 
 Com isso a atividade de Marketing por muito tempo estava atrelada ao produto. Autores mais antigos em uma época de desenvolvimento industrial tinham esse contexto para desenvolver as teorias de Marketing em torno dos produtos industriais.
 
-Theodore Levitt falando em **Miopia em Marketing** mostrava que era preciso entender qual o verdadeiro produto que estavam entregando as pessoas. Enxergar claramente o que estavam vendendo.
+Theodore Levitt falando em **<a href="https://www.felipebarbosa.me/miopia-em-marketing-e-posicionamento/" target="_blank" rel="noopener noreferrer">Miopia em Marketing</a>** mostrava que era preciso entender qual o verdadeiro produto que estavam entregando as pessoas. Enxergar claramente o que estavam vendendo.
 
 Mas Levitt tem um outro livro que, junto com o artigo [Working with Product Marketing](http://theengineeringmanager.com/growth/product-marketing/), me inspirou a escrever esse post. O livro **A Imaginação de Marketing**.
 
@@ -65,7 +65,7 @@ Então, o que signifca?
 
 A atividade do time envolvido com **Marketing de Produto**, os *Product Marketing Managers*, é um híbrido entre os papéis mais tradicionais de **Marketing**, **Produto** e **Vendas** nas empresas.
 
-Fazem o meio de campo. Unem esses times e entregam para cada um deles toda a parte estratégica de como posicionar corretamente no mercado os produtos desenvolvidos, seja ajudando a indicar quais funcionalidades trabalhar (em conjunto com o *Product Manager*) ou desenvolvendo materiais para ajudar o time de vendas superar objeções.
+Fazem o meio de campo. Unem esses times e entregam para cada um deles toda a parte estratégica de como <a href="https://www.felipebarbosa.me/como-posicionar-produtos-de-tecnologia/" target="_blank" rel="noopener noreferrer">posicionar corretamente no mercado</a> os produtos desenvolvidos, seja ajudando a indicar quais funcionalidades trabalhar (em conjunto com o *Product Manager*) ou desenvolvendo materiais para ajudar o time de vendas superar objeções.
 
 O **Marketing de Produto** vai estar envolvido em todas as etapas do funil, em toda a jornada do usuário e do cliente.
 

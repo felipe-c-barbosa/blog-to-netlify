@@ -164,7 +164,7 @@ Mas isso não é uma boa resposta, pois todos iremos concordar que não existe u
 
 Quem se propõe a ser de todos, não e de ninguém.
 
-O mercado tem mais soluções para empresas B2B do que para B2C.
+O mercado tem mais soluções para <a href="https://www.felipebarbosa.me/product-marketing-empresas-b2b-b2c/" target="_blank" rel="noopener noreferrer">empresas B2B</a> do que para B2C.
 
 Isso pode ser explicado pois o ciclo de vendas das B2B tendem a ser maiores, o que exige uma educação do lead, através da nutrição dele ao longo do funil, e um engajamento constante com as pessoas para ajudá-las a fazer uma compra.
 

@@ -62,7 +62,7 @@ Esse campo precisa ser verificável. Não "somos os melhores do mercado", isso n
 
 ## Um exemplo concreto
 
-Para tornar isso menos abstrato, o positioning statement que orienta o meu trabalho de consultoria ficaria assim:
+Para tornar isso menos abstrato, o positioning statement que orienta o <a href="https://consultoria.felipebarbosa.me" target="_blank" rel="noopener noreferrer">meu trabalho de consultoria</a> ficaria assim:
 
 **Para** profissionais de tecnologia no Brasil, PMMs, PMs, founders e líderes de marketing **que precisam construir ou aprimorar estratégia de Product Marketing, posicionamento e GTM com método**,
 **Felipe Barbosa** é a **referência mais confiável de Product Marketing no Brasil**

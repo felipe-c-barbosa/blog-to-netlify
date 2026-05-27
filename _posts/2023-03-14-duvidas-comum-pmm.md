@@ -62,7 +62,7 @@ De qualquer forma aqui a pessoa deveria ter rotinas e construir pontes para esta
 
 E fora do mundo B2B? Eu tenho pensado muito nisso.
 
-Recentemente tive conversas com empresas e profissionais B2C que começam a implementar a disciplina de Product Marketing. Empresas que nem sempre terão pessoas de Vendas para seus produtos. Que podem ter um vasto portfolio, de produtos bem transacionais para produtos com Vendas mais complexas.
+Recentemente tive conversas com empresas e profissionais <a href="https://www.felipebarbosa.me/product-marketing-empresas-b2b-b2c/" target="_blank" rel="noopener noreferrer">B2C</a> que começam a implementar a disciplina de Product Marketing. Empresas que nem sempre terão pessoas de Vendas para seus produtos. Que podem ter um vasto portfolio, de produtos bem transacionais para produtos com Vendas mais complexas.
 
 Portfolios enormes, com muitas frentes e times diferentes os quais as pessoas de Marketing de Produto deveriam atender. Como ficam essas empresas?
 
@@ -128,7 +128,7 @@ Essa pergunta costuma ser complementada com:
 
 > Muitas vezes PMs fazem atividades de PMMs. Como podemos trabalhar juntos sem pisarmos nos pés uns dos outros?
 
-É verdade, em empresas SaaS e de produtos digitais em geral, Product Management vem bem antes do que Product Marketing Management. E nesse cenário são as pessoas PMs que estarão olhando para o Go-To-Market.
+É verdade, em empresas SaaS e de produtos digitais em geral, Product Management vem bem antes do que Product Marketing Management. E nesse cenário são as pessoas PMs que estarão olhando para o <a href="https://www.felipebarbosa.me/o-que-e-go-to-market/" target="_blank" rel="noopener noreferrer">Go-To-Market</a>.
 
 Os times de Marketing muitas vezes são acionados apenas quando chega aquela demanda:
 

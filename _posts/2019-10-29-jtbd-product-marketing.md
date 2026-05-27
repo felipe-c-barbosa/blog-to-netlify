@@ -52,7 +52,7 @@ Existe um conceito bem clássico do Marketing que é o de [Miopia em Marketing](
 
 Um dos exemplos do artigo sobre Miopia em Marketing é o das ferrovias nos Estados Unidos que achavam que estavam no mercado de Ferrovias e não no de Transporte as tornando míope ao desenvolvimento das estradas e do transporte aéreo que ofereceram soluções melhores de transporte.
 
-**Vejo que a teoria do Jobs To Be Done ajuda as empresas a não serem míopes**.
+**Vejo que a teoria do Jobs To Be Done ajuda as empresas a não serem <a href="https://www.felipebarbosa.me/miopia-em-marketing-e-posicionamento/" target="_blank" rel="noopener noreferrer">míopes</a>**.
 
 Ter usado as entrevistas e a linha do tempo para descobrir o que estava acontecendo com seu cliente quando ele escolheu seu produto e quais opções ele havia cogitado e até mesmo usado dá uma visão bem clara de como ele vê seu produto.
 
@@ -88,7 +88,7 @@ Tudo que a empresa faz vai criando essa percepção mas ela só acontece na cabe
 
 Para o profissional de Marketing de Produto criar o Posicionamento do Produto ele vai precisar entender o que a empresa quer ser, quem são seus clientes e o que eles esperam e como enxergam seu produto e como o mercado é e como seu produto se diferencia da concorrência.
 
-**É um caldo de informações e aspirações que forma o Posicionamento e a teoria de Jobs To Be Done pode ajudar nisso**.
+**É um caldo de informações e aspirações que forma o <a href="https://www.felipebarbosa.me/positioning-statement-o-que-e-como-escrever/" target="_blank" rel="noopener noreferrer">Posicionamento</a> e a teoria de Jobs To Be Done pode ajudar nisso**.
 
 Ao analisar os clientes e a concorrência sob a ótica da teoria, você já vai ter aprofundado no entendimento das causas que levam seus clientes a escolher você.
 

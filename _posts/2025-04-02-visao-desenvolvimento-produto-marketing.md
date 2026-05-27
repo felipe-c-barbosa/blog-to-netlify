@@ -28,7 +28,7 @@ O marketing monitora continuamente as tendências do mercado, as mudanças socia
 
 A filosofia do conceito de marketing enfatiza que uma organização deve tentar fornecer produtos que satisfaçam as necessidades dos clientes através de um conjunto coordenado de atividades que também permitam à organização atingir seus objetivos. Isso significa que o desenvolvimento de produtos deve ser orientado pelo cliente desde o início.
 
-### Evitando a Miopia de Marketing
+### <a href="https://www.felipebarbosa.me/miopia-em-marketing-e-posicionamento/" target="_blank" rel="noopener noreferrer">Evitando a Miopia de Marketing</a>
 
 É crucial que as empresas não caiam na [miopia de marketing](/miopia-em-marketing-e-posicionamento/), que é o erro de prestar mais atenção aos produtos específicos que uma empresa oferece do que aos benefícios e experiências produzidos por esses produtos. O foco deve estar na satisfação das necessidades básicas dos clientes, e não apenas em uma visão limitada do produto. 
 
@@ -52,7 +52,7 @@ A definição do conceito do produto está intrinsecamente ligada à sua propost
 
 Após a coleta de informações sobre o conceito do produto, a próxima etapa no processo de desenvolvimento do produto é projetar a [estratégia de marketing](/marketing-estrategico-tatico-operacional/). Isso envolve descrever detalhadamente o mercado-alvo para o novo produto, delineando a proposta de valor e descrevendo seu posicionamento em relação aos produtos existentes. 
 
-A estratégia também deve descrever onde e como o produto estará disponível para os clientes, propor uma data de lançamento e detalhar as atividades de publicidade e promoção.
+A estratégia também deve descrever onde e como o produto estará disponível para os clientes, propor uma data de <a href="https://www.felipebarbosa.me/lancamento-de-novidades-produto/" target="_blank" rel="noopener noreferrer">lançamento</a> e detalhar as atividades de publicidade e promoção.
 
 ### Posicionamento
 

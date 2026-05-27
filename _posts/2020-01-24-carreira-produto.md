@@ -28,7 +28,7 @@ Trabalhar com tecnologia, times de desenvolvimento de software e produto, uniu t
 
 Quando em 2015 descobri [gestão de produtos](/produto/) lendo o livro do Dan Olsen, *The Lean Product Playbook*, e focando nessas trilhas no RD Summit aquele ano, pensei: tudo que sempre gostei de marketing estratégico tá aqui, mas sem falar que é marketing.
 
-Alguns anos depois o produto que eu trabalhava foi descontinuado e nosso time foi remanejado. Ao entrar no outro time falei que seria a pessoa de [Marketing de Produto](/marketing-de-produto/).
+Alguns anos depois o produto que eu trabalhava foi descontinuado e nosso time foi remanejado. Ao entrar no outro time falei que seria a pessoa de <a href="https://www.felipebarbosa.me/marketing-de-produto/" target="_blank" rel="noopener noreferrer">Marketing de Produto</a>.
 
 Queria ficar próximo a produto mas sabia que não tinha as skills técnicas naquele contexto pra mudar de área.
 

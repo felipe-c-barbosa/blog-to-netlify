@@ -48,7 +48,7 @@ E com isso precisamos ter um foco muito grande em estar em constante preocupaç�
 
 **E porque ao invés de Product Marketing ser a cola que conecta as pontas não é a força para onde as outras áreas são puxadas? A dinâmica muda.**
 
-Pensa só: se é Product Marketing que vai ter o trabalho de entender a dinâmica de mercado (clientes, concorrentes, macro e microeconomia) e o seu próprio produto para então, a partir dos objetivos da empresa trabalhar e definir Posicionamento, Messaging e estratégias de [Go-to-Market](/estrategia-go-to-market/){:target="_blank"} (ou apenas os lançamentos), não é como se a gente tivesse que por o esforço em alinhar as outras áreas nisso, deveria ser entendido que as outras áreas deveriam buscar essa informação, afinal, todo mundo vai pro mesmo lugar... correto?
+Pensa só: se é Product Marketing que vai ter o trabalho de entender a dinâmica de mercado (clientes, concorrentes, macro e microeconomia) e o seu próprio produto para então, a partir dos objetivos da empresa trabalhar e definir <a href="https://www.felipebarbosa.me/como-posicionar-produtos-de-tecnologia/" target="_blank" rel="noopener noreferrer">Posicionamento, Messaging</a> e <a href="https://www.felipebarbosa.me/o-que-e-go-to-market/" target="_blank" rel="noopener noreferrer">estratégias de Go-to-Market</a> (ou apenas os lançamentos), não é como se a gente tivesse que por o esforço em alinhar as outras áreas nisso, deveria ser entendido que as outras áreas deveriam buscar essa informação, afinal, todo mundo vai pro mesmo lugar... correto?
 
 Eu vejo que isso traria uma conversa mais saudável.
 

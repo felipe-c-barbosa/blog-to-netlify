@@ -98,7 +98,7 @@ Algumas coisas básicas você precisa ter para implementar o Product Led Growth:
 
 Com certeza quem utiliza PLG vai pensar em outros pontos a respeito disso, mas vejo que essas são as mais relevantes porque são elas que vão pintar o quadro de quem são os [Product Qualified Leads](https://trafficiscurrency.com/product-qualified-leads/).
 
-Assim como Marketing e Vendas tem os tradicionais MQLs (Marketing Qualified Leads) e SQLs (Sales Qualified Leads), no universo do Product Led Growth os PQLs (Product Qualified Leads) são os que mais importam.
+Assim como Marketing e Vendas tem os tradicionais MQLs (Marketing Qualified Leads) e SQLs (Sales Qualified Leads), no universo do Product Led Growth os <a href="https://www.felipebarbosa.me/pirate-metrics/" target="_blank" rel="noopener noreferrer">PQLs (Product Qualified Leads)</a> são os que mais importam.
 
 Essa imagem você vai encontrar em muitos artigos sobre o assunto, mas é porque ela é realmente boa para explicar:
 
