@@ -4,7 +4,6 @@ title: O Jornalista, O Marketeiro e o Poder da (Des)Informação.
 author: Felipe Barbosa
 permalink: /medium/o-jornalista-o-marketeiro-e-o-poder-da-des-informacao/
 categories: medium
-canonical: https://felipecbarbosa.medium.com/o-jornalista-o-marketeiro-e-o-poder-da-des-informacao-542853a61148
 ---
 
 *Esse texto foi publicado pela primeira vez no dia 02/04/2014 no Medium*

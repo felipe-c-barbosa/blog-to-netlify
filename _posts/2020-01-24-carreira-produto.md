@@ -20,7 +20,7 @@ Faço o TCC com viés em mkt esportivo mas ao me formar, olho o mercado e vejo q
 
 Fui fazer especialização na área e tinha na cabeça que trabalharia em agência. Juntaria o gosto pela estratégia com o digital e seria algo como analista de negócios ou planejamento.
 
-Nessa época consumia tudo sobre publicidade. Até o dia que caí de paraquedas numa empresa de tecnologia. Uma [Startup](/startups/).
+Nessa época consumia tudo sobre publicidade. Até o dia que caí de paraquedas numa empresa de tecnologia. Uma [Startup](/business/).
 
 Meu maior conhecimento na época era ter lido o livro Startup Enxuta. Entrei nesse universo e me encontrei.
 

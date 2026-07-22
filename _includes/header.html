@@ -9,9 +9,9 @@
 			<img class="avatar" src="https://res.cloudinary.com/felipe-barbosa/image/upload/v1677279984/Brand%20Assets/{{ site.theme_settings.avatar }}" alt=""/>
 		</a>
 		{% endif %}
-		<h1 class="site-title">
+		<p class="site-title">
 			<a href="{{ site.baseurl }}/">{{ site.theme_settings.title }}</a>
-		</h1>
+		</p>
 	</div>
 	<button class="nav-toggle-btn" aria-label="Abrir menu" aria-expanded="false">
 		<span></span>
@@ -62,15 +62,6 @@
 				btn.setAttribute('aria-label', 'Abrir menu');
 			}
 		});
-	})();
-
-	(function () {
-		var header = document.querySelector('.site-header');
-		function adjustBodyPadding() {
-			document.body.style.paddingTop = header.offsetHeight + 'px';
-		}
-		adjustBodyPadding();
-		window.addEventListener('resize', adjustBodyPadding);
 	})();
 
 	(function () {

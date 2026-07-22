@@ -4,7 +4,6 @@ title: Usando Jobs To Be Done em Product Led Growth
 author: Felipe Barbosa
 permalink: /jobs-to-be-done-product-led-growth/
 categories: produto
-canonical: https://medium.com/jtbd/usando-jobs-to-be-done-em-product-led-growth-ac1e5063285e
 ---
 
 Esse artigo eu publiquei no dia 12 de dezembro de 2019 no Medium da [JTBD+](https://www.jtbd.plus/){:target="_blank"}. Nele eu falo sobre como a teoria do Jobs To Be Done e Product Led Growth combinam perfeitamente.

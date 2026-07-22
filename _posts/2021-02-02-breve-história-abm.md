@@ -3,7 +3,7 @@ layout: post
 title: Uma breve história minha com Account Based Marketing
 author: Felipe Barbosa
 permalink: /breve-historia-account-based-marketing/
-category: business
+categories: business
 ---
 
 Mexendo em uns arquivos antigos encontrei um ebook chamado "ABM: The key to B2B Success" do ano de 2015! Como nos últimos anos trabalhei em empresas que ou implementaram de fato ou estavam em processo de implementar Account Based Marketing resolvi contar como conheci o tão falado ABM.

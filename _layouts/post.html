@@ -11,24 +11,23 @@ layout: default
   "@type": "BlogPosting",
   "@id": "{{ page.url | absolute_url }}",
   "headline": "{{ page.title | escape }}",
-  "description": "{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | escape }}",
+  "description": "{% if page.description %}{{ page.description | strip_html | strip_newlines | escape }}{% else %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | escape }}{% endif %}",
   "datePublished": "{{ page.date | date_to_xmlschema }}",
   "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
   "wordCount": {{ words }},
   "inLanguage": "pt-BR",
   "author": {
     "@type": "Person",
+    "@id": "{{ site.url }}/#person",
     "name": "{{ page.author | default: site.theme_settings.author | escape }}",
     "url": "{{ site.url }}/sobre/",
     "sameAs": ["https://www.linkedin.com/in/felipecardosobarbosa", "https://twitter.com/felipecb_"]
   },
   "publisher": {
-    "@type": "Organization",
+    "@type": "Person",
+    "@id": "{{ site.url }}/#person",
     "name": "{{ site.theme_settings.author | escape }}",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://res.cloudinary.com/felipe-barbosa/image/upload/v1677279984/Brand%20Assets/felipe_barbosa-logo-icon-alternative.png"
-    }
+    "url": "{{ site.url }}/sobre/"
   },
   "url": "{{ page.url | absolute_url }}",
   "mainEntityOfPage": {
@@ -40,15 +39,43 @@ layout: default
   "image": "{{ site.theme_settings.image }}"{% endif %}
 }
 </script>
+{% if page.categories %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ site.url }}/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ page.categories | escape }}",
+      "item": "{{ site.url }}/{{ page.categories }}/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "{{ page.title | escape }}",
+      "item": "{{ page.url | absolute_url }}"
+    }
+  ]
+}
+</script>
+{% endif %}
 
 <article {% if page.feature-img %}class="feature-image"{% endif %}>
-  <header style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')">
+  <header{% if page.feature-img %} style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')"{% endif %}>
     <h1 class="title">{{ page.title }}</h1>
     <p class="meta">
     {{ page.date | date: "%B %-d, %Y" }}
     &middot; {{ reading_time }} min de leitura
-    {% if page.author %} &middot; <a href="https://www.linkedin.com/in/felipecardosobarbosa/" target="_blank">{{ page.author }}</a>{% endif %}
-    {% if page.categories %} &middot; <a href="https://www.felipebarbosa.me/{{ page.categories }}" target="_blank">{{ page.categories }}</a>{% endif %}
+    {% if page.author %} &middot; <a href="https://www.linkedin.com/in/felipecardosobarbosa/" target="_blank" rel="noopener noreferrer">{{ page.author }}</a>{% endif %}
+    {% if page.categories %} &middot; <a href="/{{ page.categories }}/">{{ page.categories }}</a>{% endif %}
     </p>
   </header>
   <section class="post-content">{{ content }}</section>

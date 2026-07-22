@@ -30,7 +30,7 @@ Esse processo todo tende a durar o tempo do período de testes (7, 14, 30 dias) 
 
 Por que quanto menor a interação melhor? Porque como é um público PME e o ticket médio é mais baixo, o **Custo de Aquisição de Clientes** seria muito alto para valer a pena. 
 
-Com isso a atividade de Marketing passa a ser responsável por muitas etapas do funil. É o que se lê e ouve toda hora quando falamos de [Growth Hacking](/hacking-growth/), **Growth Marketing** e praticamente tudo que se encontra sobre [Startups](/startups/).
+Com isso a atividade de Marketing passa a ser responsável por muitas etapas do funil. É o que se lê e ouve toda hora quando falamos de [Growth Hacking](/hacking-growth/), **Growth Marketing** e praticamente tudo que se encontra sobre [Startups](/business/).
 
 Claro que isso não quer dizer que todas as **Startups** vendem para PMEs, existem muitas que focam no público Enterprise, mas é menos comum vermos exemplos sobre elas. Talvez por estar dentro da mesma lógica que irei descrever agora.
 

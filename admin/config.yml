@@ -31,8 +31,19 @@ collections:
         options:
           - { label: "Marketing", value: "marketing" }
           - { label: "Business", value: "business" }
-          - { label: "Produto", value: "product" }
-          - { label: "Geral", value: "general" }
+          - { label: "Produto", value: "produto" }
+      - label: "Description (SEO)"
+        name: "description"
+        widget: "text"
+        required: false
+        hint: "Meta description ~150–160 caracteres. Se vazio, usa o primeiro parágrafo."
+      - label: "Last modified at"
+        name: "last_modified_at"
+        widget: "datetime"
+        required: false
+        hint: "Preencher só quando o conteúdo for de fato atualizado."
+        date_format: "YYYY-MM-DD"
+        time_format: false
       - { label: "Conteúdo", name: "body", widget: "markdown" }
 
   - name: "pages"

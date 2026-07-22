@@ -2,21 +2,11 @@
 <html lang="pt-br" class="no-js">
   {% include head.html %}
   <body>
+    <a class="skip-link" href="#main">Pular para o conteúdo</a>
     {% include header.html %}
-    <div class="content">
+    <div id="main" class="content" tabindex="-1">
       {{ content }}
     </div>
     {% include shared-footer.html %}
-    <script>
-      if (window.netlifyIdentity) {
-        window.netlifyIdentity.on("init", function(user) {
-          if (!user) {
-            window.netlifyIdentity.on("login", function() {
-              document.location.href = "/admin/";
-            });
-          }
-        });
-      }
-    </script>
   </body>
 </html>

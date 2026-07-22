@@ -3,7 +3,7 @@ layout: post
 title: O ano é 2015 e isso era falado sobre produto no RD Summit
 author: Felipe Barbosa
 permalink: /2015-rdsummit-produto/
-category: produto
+categories: produto
 ---
 
 Foi no ano de 2015 que comecei a me interessar e estudar sobre Product Management. Nesse mesmo ano fui pela segunda vez no RD Summit e resolvi priorizar as palestras que falavam sobre Gerenciamento de Produto.

@@ -3,7 +3,7 @@ layout: post
 title: A incerteza certa
 author: Felipe Barbosa
 permalink: /incerteza-certa/
-category: business
+categories: business
 ---
 
 Estou lendo um livro chamado [Not a Scientist: How Politicians Mistake, Misrepresent, and Utterly Mangle Science](https://amzn.to/36OCnUt){:target="_blank"} onde o autor mostra como políticos jogam com a ciência para promover algum ponto que querem defender, cometendo erros e trazendo interpretações erradas sobre o assunto. Um dos capítulos tem como título *The Certain Uncertainty* e foi por causa dele que resolvi escrever uma reflexão.

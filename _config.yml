@@ -15,7 +15,7 @@ theme_settings:
   
   # Header and footer text
   header_text: >
-    <h1 style="font-size: 1.6em;">Um blog sobre Marketing, Produto e Estratégia.</h1>
+    <h1 class="home-title">Um blog sobre Marketing, Produto e Estratégia.</h1>
         
   header_text_feature_image:
   footer_text: >
@@ -40,7 +40,7 @@ theme_settings:
   ideas: # https://portal.prodpad.com/b80a11cc-6d54-11e7-9642-22000a2145da
   cv: 
   twitter: felipecb_
-  medium: https://www.felipebarbosa.me/medium/
+  medium: https://felipebarbosa.me/medium/
   ajuda: # https://ajuda.felipebarbosa.me/
 
   # Scripts
@@ -76,3 +76,17 @@ sass:
   sass_dir: _sass
   style: :compressed
 plugins: [jekyll-paginate, jekyll-sitemap, jekyll-redirect-from]
+exclude:
+  - CONTENT_ENGINE.md
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+  - .ruby-version
+defaults:
+  - scope:
+      path: "files"
+    values:
+      sitemap: false

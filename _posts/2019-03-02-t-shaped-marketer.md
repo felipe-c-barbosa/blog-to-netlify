@@ -3,7 +3,7 @@ layout: post
 title: T-Shaped Marketer, meu resultado na pesquisa da Growth Tribe
 author: Felipe Barbosa
 permalink: /t-shaped-marketer/
-category: marketing
+categories: marketing
 ---
 Lembro que foi em 2013, em uma entrevista de emprego, que escutei pela primeira vez sobre o *t-shaped professional*. Passam-se alguns anos, começa o *boom* do [Growth Hacking](/hacking-growth/) e muitos começam a falar do tal **t-shaped marketer**.
 

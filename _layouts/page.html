@@ -1,8 +1,23 @@
 ---
 layout: default
 ---
+{% if page.permalink == '/sobre/' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "@id": "{{ page.url | absolute_url }}",
+  "mainEntity": {
+    "@type": "Person",
+    "@id": "{{ site.url }}/#person",
+    "name": "{{ site.theme_settings.author | escape }}",
+    "url": "{{ site.url }}/sobre/"
+  }
+}
+</script>
+{% endif %}
 <article {% if page.feature-img %}class="feature-image"{% endif %}>
-  <header style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')">
+  <header{% if page.feature-img %} style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')"{% endif %}>
     <h1 class="title">{{ page.title }}</h1>
   </header>
   <section class="post-content">{{ content }}</section>

@@ -4,7 +4,6 @@ title: A Era do Marketing de Xalalá
 author: Felipe Barbosa
 permalink: /medium/a-era-do-marketing-de-xalala/
 categories: medium
-canonical: https://medium.com/marketing-para-startups/a-era-do-marketing-de-xalala
 ---
 
 *Esse texto foi publicado pela primeira vez no dia 09/05/2014 no Medium*

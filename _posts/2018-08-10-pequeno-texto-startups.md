@@ -3,10 +3,10 @@ layout: post
 title: Um pequeno texto sobre startups, percepção e realidade	
 author: Felipe Barbosa
 permalink: /startups-percepcao-realidade/
-categories: startups
+categories: business
 ---
 
-Crescimento e sucesso de [startups](https://www.felipebarbosa.me/startups/) é sempre algo **muito difícil de analisar de fora**. 
+Crescimento e sucesso de [startups](/business/) é sempre algo **muito difícil de analisar de fora**. 
 
 Ainda mais porque a grande maioria não tem obrigação nenhuma de divulgar seus números abertamente.
 

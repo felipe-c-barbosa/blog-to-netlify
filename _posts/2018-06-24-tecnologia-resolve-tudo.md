@@ -138,7 +138,7 @@ Até que ponto os aplicativos de transporte são realmente uma solução para re
 
 Talvez aqui o problema seja nas promessas feitas e nas expectativas que criamos. Pode ser efeito da mesma falta de senso crítico que surge quando falamos nos algoritmos mágicos.
 
-Queremos acreditar que as novas [Startups](/startups/), produtos e tecnologias vão chegar com uma nova mentalidade dos negócios e o que sair dali será o suficiente para um mundo melhor para todos.
+Queremos acreditar que as novas [Startups](/business/), produtos e tecnologias vão chegar com uma nova mentalidade dos negócios e o que sair dali será o suficiente para um mundo melhor para todos.
 
 As *Fintechs*, por exemplo, querem ser uma opção muito melhor do que os bancos tradicionais. Eu uso algumas, e em conveniência são excelentes mas elas ainda são infinitamente menor do que esses bancos que as quais querem competir.
 

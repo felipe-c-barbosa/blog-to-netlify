@@ -3,7 +3,7 @@ layout: post
 title: This Won't Scale - o livro de Marketing do Drift
 author: Felipe Barbosa
 permalink: /this-wont-scale/
-category: marketing
+categories: marketing
 ---
 Essa semana, no dia 28/01, recebi em casa um livro que a equipe de Marketing do Drift ofereceu gratuitamente: **This Won't Scale**. É um livro curto, organizado em 8 capítulos e 41 tópicos com uma ótima reflexão sobre o papel do Marketing nas empresas de tecnologia.
 
@@ -71,7 +71,7 @@ Um dia é Inbound Marketing, outro dia é Growth Hacking, outro dia é Account B
 
 Lendo **This Won't Scale** você verá como essa abordagem funciona e ainda saber por onde começar. Eles ao longo do livro falam livros e pessoas que seguem para aprender.
 
-O livro é um bom caminho para colocar no seu dia a dia conceitos e ideias de Marketing que não é comum aparecerem nas publicações e nos livros de Marketing que focam no mercado de tecnologia e [Startups](/startups/).
+O livro é um bom caminho para colocar no seu dia a dia conceitos e ideias de Marketing que não é comum aparecerem nas publicações e nos livros de Marketing que focam no mercado de tecnologia e [Startups](/business/).
 
 Quando você fizer isso acho que vai ter o mesmo sentimento que eu tenho ao ler os clássicos e o mesmo que o Dave relata nesse vídeo:
 

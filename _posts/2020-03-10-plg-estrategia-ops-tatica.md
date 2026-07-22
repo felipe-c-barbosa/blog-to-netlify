@@ -3,7 +3,7 @@ layout: post
 title: Product Led Growth na perspectiva de estratégia, operações e táticas
 author: Felipe Barbosa
 permalink: /product-led-growth-estrategia-operacoes-tatica/
-categories: startups
+categories: business
 ---
 
 Eu já escrevi dois outros artigos sobre Product Led Growth, um tentando [desmistificar a atividade](/desmistificando-product-led-growth/) e outro falando sobre [elementos da estratégia](/elementos-estrategia-product-led-growth/). Agora quero explorar uma parte que eu comecei a sentir que faltava na visão das empresas que tem crescimento focado em Marketing e Vendas e querem mudar para um foco em Produto.
@@ -28,7 +28,7 @@ Vamos então ver como **Product Led Growth** deve ser visto em três níveis dif
 
 O primeiro ponto é que ser ou se tornar PLG não é medido apenas pelas táticas que serão implementadas. É uma decisão estratégica de negócio pois mexe em todas as áreas da empresa. 
 
-Vamos olhar pras [Startups](/startups/) que começaram esse movimento. Eram empresas de tecnologia, começando enxutas, times pequenos e que estavam ofertando no mercado produtos com um ticket médio baixo. Essas empresas nasceram pensando que precisavam de escala. 
+Vamos olhar pras [Startups](/business/) que começaram esse movimento. Eram empresas de tecnologia, começando enxutas, times pequenos e que estavam ofertando no mercado produtos com um ticket médio baixo. Essas empresas nasceram pensando que precisavam de escala. 
 
 Esses times geralmente tinham no seu início os fundadores e alguns funcionários. Quem fazia as primeiras vendas e conseguiam os primeiros clientes eram essas pessoas (geralmente os fundadores) e a partir daí tinham que ter uma maneira de ir trazendo mais clientes de maneira que não fosse necessário crescer também a operação na mesma proporção.
 

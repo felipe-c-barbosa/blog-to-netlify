@@ -129,7 +129,7 @@ Como o nome diz é o estágio onde o foco é levar uma quantidade grande de pess
 
 Aqui entrariam os mais variados tipos de estratégias, sejam elas **online** ou **offline**.
 
-A [startup](/startups/) pensando em aquisição de *leads* tem a disposição diferentes estratégias que serão avaliadas de acordo com a realidade de cada negócio.
+A [startup](/business/) pensando em aquisição de *leads* tem a disposição diferentes estratégias que serão avaliadas de acordo com a realidade de cada negócio.
 
 #### Táticas de Aquisição
 

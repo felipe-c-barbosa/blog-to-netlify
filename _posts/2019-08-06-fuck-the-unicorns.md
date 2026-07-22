@@ -3,7 +3,7 @@ layout: post
 title: Marketing nas Startups da vida real
 author: Felipe Barbosa
 permalink: /marketing-em-startups-vida-real/
-categories: startups
+categories: business
 ---
 Durante a faculdade de Administração eu lembro que quando líamos e conversávamos sobre casos de sucesso de gestão, os exemplos eram sempre a General Eletric, a Coca-Cola, Peter Drucker e Jack Welsh.
 
@@ -15,7 +15,7 @@ Nessa época todo e qualquer evento que eu ia os casos de sucesso envolviam a Ni
 
 Marcas gigantes, que foram construídas ao longo de muito tempo e que não serviam de parâmetro para a maioria das pessoas que estavam nesses eventos.
 
-Acabei trabalhando com Marketing Digital e surgiu uma oportunidade de trabalhar em uma [Startup](/startups/).
+Acabei trabalhando com Marketing Digital e surgiu uma oportunidade de trabalhar em uma [Startup](/business/).
 
 Desde então, eu mergulhei nesse mundo novo e tecnológico e uma coisa me chamou a atenção.
 

@@ -21,11 +21,11 @@ Felipe Barbosa é Marketing Manager na Nubank, instrutor de Product Marketing na
 - [Blog](https://felipebarbosa.me): Artigos sobre Marketing, Produto e Estratégia
 - [Sobre](https://felipebarbosa.me/sobre/): Quem é Felipe Barbosa — experiência e trajetória profissional
 - [Consultoria](https://consultoria.felipebarbosa.me): Serviços de consultoria em Marketing de Produto para empresas B2B e SaaS
-- [Leituras Recentes](https://felipebarbosa.me/leituras/): Livros e leituras recomendadas
+- [Leituras Recentes](https://felipebarbosa.me/leituras-recentes/): Livros e leituras recomendadas
 - [Feed RSS](https://felipebarbosa.me/feed.xml): Feed de novos artigos
 
 ## Contato e redes
 
 - LinkedIn: https://www.linkedin.com/in/felipecardosobarbosa
 - GitHub: https://github.com/felipe-c-barbosa
-- Medium: https://www.felipebarbosa.me/medium/
+- Medium: https://felipebarbosa.me/medium/

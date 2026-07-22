@@ -49,7 +49,6 @@
 
 	<!-- Google, Bing, Pinterest, Majestic and Facebook Meta Verification -->
 	<meta name="google-site-verification" content="wAtOt92GCvuANIDEh57uq0aeHzYwrz0sEUcsaV3N5cw" />
-	<meta name="google-site-verification" content="IONveo9e9y77VPz-9fJ2N31XAPbHoVNAg2HiHSUX2lo" />
 	<meta name="msvalidate.01" content="0B1F01B24803CA31E5C061EF7B0A4028" />
 	<meta name="p:domain_verify" content="d72cf7bc337b684cc4d1534088677fda" />
 	<meta property="fb:pages" content="240597259611282" />
@@ -67,7 +66,7 @@
 	<link rel="canonical" href="{% if page.canonical %}{{ page.canonical }}{% else %}{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}{% endif %}">
 
 	<!-- RSS -->
-	<link rel="alternate" type="application/atom+xml" title="{{ site.theme_settings.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+	<link rel="alternate" type="application/rss+xml" title="{{ site.theme_settings.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
 	<!-- Google Fonts -->
 	{% if site.theme_settings.google_fonts %}
@@ -87,9 +86,6 @@
 		gtag('js', new Date());
 		gtag('config', 'G-QQNXJB6LH4');
 	</script>
-
-	<!-- Netlify Identity Widget -->
-	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 	<!-- Segment -->
 	<script>

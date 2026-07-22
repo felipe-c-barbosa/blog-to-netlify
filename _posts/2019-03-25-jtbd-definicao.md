@@ -29,7 +29,7 @@ Nesse cenário o nosso **CEO acreditou** e o **nosso time** acreditou que o merc
 
 Pensamos então que iríamos dar poder aos profissionais de Marketing para começar a rodar suas estratégias e operação de Automação de Marketing: **Now Marketing Automation is really for Marketers**.
 
-Essa é uma história que acontece de maneira recorrente no mundo das [startups](/startups/), a grande visão de uma pessoa e de um time que irá mudar o mercado. Mas, com quantas pessoas essa ideia foi validada? Pouquíssimas.
+Essa é uma história que acontece de maneira recorrente no mundo das [startups](/business/), a grande visão de uma pessoa e de um time que irá mudar o mercado. Mas, com quantas pessoas essa ideia foi validada? Pouquíssimas.
 
 Nós não fomos pra rua ver se era isso que os profissionais de Marketing queriam. Nós fizemos toda validação inicial olhando para o nosso próprio umbigo.
 
