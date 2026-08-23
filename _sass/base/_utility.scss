@@ -32,7 +32,3 @@
 a.button:hover {
   @extend %button-hover;
 }
-// States
-.disabled {
-  opacity: 0.7;
-}
