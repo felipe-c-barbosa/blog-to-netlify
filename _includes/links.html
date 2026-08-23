@@ -1,0 +1,94 @@
+{%- comment -%}
+Renderiza a página /links a partir de _data/links.yml.
+{%- endcomment -%}
+{%- assign links = site.data.links -%}
+
+<div class="links-page">
+
+  {%- if links.profile.intro %}
+  <p class="links-intro">{{ links.profile.intro }}</p>
+  {%- endif %}
+
+  {%- for group in links.groups %}
+  <section class="links-group">
+    <h2 class="links-group__title">{{ group.title }}</h2>
+    <ul class="links-list">
+      {%- for item in group.items %}
+      {%- assign is_external = false -%}
+      {%- if item.url contains '://' or item.url contains 'mailto:' -%}{%- assign is_external = true -%}{%- endif -%}
+      <li>
+        <a class="link-card{% if item.featured %} link-card--featured{% endif %}"
+           href="{{ item.url }}"
+           {% if is_external %}target="_blank" rel="noopener noreferrer"{% endif %}
+           data-link-label="{{ item.label | escape }}">
+          <span class="link-card__icon">{% include link-icon.html icon=item.icon %}</span>
+          <span class="link-card__text">
+            <span class="link-card__label">{{ item.label }}</span>
+            {%- if item.description %}
+            <span class="link-card__desc">{{ item.description }}</span>
+            {%- endif %}
+          </span>
+          {%- if is_external %}
+          <span class="link-card__ext" aria-hidden="true">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7"/><path d="M8 7h9v9"/></svg>
+          </span>
+          {%- endif %}
+        </a>
+      </li>
+      {%- endfor %}
+    </ul>
+  </section>
+  {%- endfor %}
+
+</div>
+
+{%- comment -%}
+Schema.org ProfilePage. O sameAs é montado a partir dos itens marcados com
+"sameas: true" no _data/links.yml, então adicionar uma rede nova ao YAML
+já atualiza o structured data — sem editar HTML.
+{%- endcomment -%}
+{%- capture sameas_raw -%}
+{%- for group in links.groups -%}{%- for item in group.items -%}{%- if item.sameas -%}{{ item.url }}|{%- endif -%}{%- endfor -%}{%- endfor -%}
+{%- endcapture -%}
+{%- assign sameas_list = sameas_raw | split: '|' -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "@id": "{{ page.url | absolute_url }}",
+  "name": {{ page.title | jsonify }},
+  "url": "{{ page.url | absolute_url }}",
+  "mainEntity": {
+    "@type": "Person",
+    "@id": "{{ site.url }}/#person",
+    "name": {{ site.theme_settings.author | jsonify }},
+    "url": "{{ site.url }}/sobre/",
+    "sameAs": [{% for u in sameas_list %}{{ u | jsonify }}{% unless forloop.last %}, {% endunless %}{% endfor %}]
+  }
+}
+</script>
+
+<script>
+  // Rastreia qual link converte (GA4 + Segment já carregam globalmente no head.html).
+  (function () {
+    var page = document.querySelector('.links-page');
+    if (!page) return;
+    page.addEventListener('click', function (e) {
+      var card = e.target.closest('.link-card');
+      if (!card) return;
+      var payload = {
+        label: card.getAttribute('data-link-label'),
+        url: card.getAttribute('href')
+      };
+      if (window.analytics && window.analytics.track) {
+        window.analytics.track('links-page-click', payload);
+      }
+      if (window.gtag) {
+        window.gtag('event', 'links_page_click', {
+          link_label: payload.label,
+          link_url: payload.url
+        });
+      }
+    });
+  })();
+</script>

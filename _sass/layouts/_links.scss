@@ -1,0 +1,141 @@
+// Página /links — agregador de redes pessoais.
+// Usa as mesmas variáveis do resto do blog (_sass/base/_variables.scss).
+
+$links-featured-bg: #150140; // mesmo roxo do .call-out e da paginação
+
+.links-page {
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.links-intro {
+  text-align: center;
+  font-size: 0.95em;
+  opacity: 0.75;
+  margin-bottom: 2.5em;
+}
+
+.links-group {
+  margin-bottom: 2.5em;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.links-group__title {
+  font-size: 0.8em;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: $links-featured-bg;
+  margin: 0 0 0.9em;
+}
+
+.links-list {
+  // `ol, ul { list-style-position: inside }` é global — precisa zerar aqui.
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  li {
+    margin-bottom: 0.6em;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
+.link-card {
+  display: flex;
+  align-items: center;
+  gap: 0.9em;
+  width: 100%;
+  padding: 0.9em 1.1em;
+  border: 1px solid rgba(0, 0, 0, 0.14);
+  border-radius: 0.6em;
+  color: $text-color;
+  background: transparent;
+  text-decoration: none;
+  transition: background-color 0.15s ease, border-color 0.15s ease,
+    color 0.15s ease, transform 0.15s ease;
+
+  &:hover,
+  &:focus-visible {
+    background: $link-color;
+    border-color: $link-color;
+    color: $background-color;
+    text-decoration: none;
+    transform: translateY(-1px);
+  }
+}
+
+.link-card__icon {
+  display: flex;
+  flex: 0 0 auto;
+  align-items: center;
+  justify-content: center;
+  width: 1.6em;
+  color: inherit;
+
+  svg {
+    display: block;
+  }
+}
+
+.link-card__text {
+  display: flex;
+  flex-direction: column;
+  min-width: 0; // permite o text-overflow em labels longos
+  flex: 1 1 auto;
+}
+
+.link-card__label {
+  font-size: 0.9em;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.link-card__desc {
+  font-size: 0.72em;
+  line-height: 1.4;
+  margin-top: 0.15em;
+  opacity: 0.7;
+}
+
+.link-card__ext {
+  display: flex;
+  flex: 0 0 auto;
+  align-items: center;
+  opacity: 0.4;
+}
+
+.link-card:hover .link-card__ext,
+.link-card:focus-visible .link-card__ext {
+  opacity: 0.9;
+}
+
+// Card em destaque (featured: true no _data/links.yml)
+.link-card--featured {
+  background: $links-featured-bg;
+  border-color: $links-featured-bg;
+  color: $background-color;
+
+  .link-card__desc {
+    opacity: 0.75;
+  }
+
+  &:hover,
+  &:focus-visible {
+    background: $link-color;
+    border-color: $link-color;
+    color: $background-color;
+  }
+}
+
+@media (max-width: 600px) {
+  .link-card {
+    padding: 0.85em 0.95em;
+  }
+}

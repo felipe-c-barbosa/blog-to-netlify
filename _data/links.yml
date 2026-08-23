@@ -1,0 +1,92 @@
+# Conteúdo da página /links (agregador de redes e conteúdos).
+# Editável também pelo Decap CMS em /admin → "Links (/links)".
+#
+# Cada item aceita:
+#   label       (obrigatório) texto do link
+#   url         (obrigatório) URL interna começando com "/" ou externa com "https://"
+#   description (opcional)    linha de apoio abaixo do label
+#   icon        (opcional)    nome do ícone: veja _includes/link-icon.html
+#   featured    (opcional)    true = card em destaque (fundo roxo)
+#   sameas      (opcional)    true = entra no schema.org sameAs (só perfis seus em outras redes)
+#
+# Links internos (começando com "/") abrem na mesma aba.
+# Links externos abrem em nova aba com rel="noopener noreferrer".
+
+profile:
+  headline: "Marketing, Produto e Estratégia de Negócios."
+  intro: "Todos os meus canais, conteúdos e formas de falar comigo em um lugar só."
+  avatar: felipe_barbosa-logo-icon-alternative.png
+
+groups:
+  - title: "Onde me encontrar"
+    items:
+      - label: "LinkedIn"
+        description: "Onde eu posto com mais frequência"
+        url: "https://www.linkedin.com/in/felipecardosobarbosa/"
+        icon: linkedin
+        sameas: true
+        featured: true
+      - label: "X / Twitter"
+        url: "https://twitter.com/felipecb_"
+        icon: twitter
+        sameas: true
+      - label: "GitHub"
+        url: "https://github.com/felipe-c-barbosa"
+        icon: github
+        sameas: true
+
+  - title: "Trabalhe comigo"
+    items:
+      - label: "Consultoria"
+        description: "Marketing de Produto para empresas B2B"
+        url: "https://consultoria.felipebarbosa.me"
+        icon: briefcase
+        featured: true
+      - label: "Fale comigo"
+        description: "Chat ou formulário, respondo rápido"
+        url: "/contato/"
+        icon: mail
+      - label: "Quem eu sou"
+        url: "/sobre/"
+        icon: user
+      - label: "Portfolio"
+        description: "Exemplos públicos do meu trabalho"
+        url: "/portfolio/"
+        icon: folder
+
+  - title: "O que eu escrevo"
+    items:
+      - label: "Artigos sobre Marketing"
+        url: "/marketing/"
+        icon: pencil
+      - label: "Artigos sobre Produto"
+        url: "/produto/"
+        icon: pencil
+      - label: "Artigos sobre Business"
+        url: "/business/"
+        icon: pencil
+      - label: "Assine o RSS"
+        description: "O blog inteiro no seu leitor"
+        url: "/feed.xml"
+        icon: rss
+
+  - title: "Materiais e listas"
+    items:
+      - label: "Livros para Profissionais"
+        description: "Minha biblioteca técnica e de gestão"
+        url: "/livros-para-profissionais/"
+        icon: book
+      - label: "Leituras recentes"
+        url: "/leituras-recentes/"
+        icon: book
+      - label: "Vagas de Product Marketing"
+        description: "Vagas em empresas brasileiras"
+        url: "/product-marketing/vagas/"
+        icon: briefcase
+      - label: "Colaborações"
+        description: "Eventos, podcasts, artigos e webinars"
+        url: "/eventos-podcasts-artigos-webinars/"
+        icon: mic
+      - label: "Artigos antigos do Medium"
+        url: "/medium/"
+        icon: pencil
