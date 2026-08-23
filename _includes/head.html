@@ -57,7 +57,10 @@
 	<meta name="theme-color" content="#150140">
 
 	<!-- CSS -->
-	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+	<!-- ?v= muda a cada build: /css/* é servido com "immutable, max-age=1 ano"
+	     (netlify.toml), que só é seguro em URL versionada. Sem isso, quem já tem
+	     o main.css em cache não revalida e recebe HTML novo com CSS velho. -->
+	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}?v={{ site.time | date: '%s' }}">
 
 	<!--Favicon-->
 	<link rel="icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" type="image/x-icon">

@@ -144,6 +144,57 @@ collections:
           - { label: "Permalink", name: "permalink", widget: "string" }
           - { label: "Conteúdo", name: "body", widget: "markdown" }
 
+      - name: "links"
+        label: "Links (/links)"
+        file: "_data/links.yml"
+        description: "Agregador de redes pessoais publicado em felipebarbosa.me/links"
+        fields:
+          - label: "Perfil"
+            name: "profile"
+            widget: "object"
+            fields:
+              - label: "Intro"
+                name: "intro"
+                widget: "text"
+                required: false
+                hint: "Frase curta exibida abaixo do título da página."
+          - label: "Grupos de links"
+            name: "groups"
+            widget: "list"
+            label_singular: "Grupo"
+            summary: "{{fields.title}}"
+            fields:
+              - { label: "Título do grupo", name: "title", widget: "string" }
+              - label: "Links"
+                name: "items"
+                widget: "list"
+                label_singular: "Link"
+                summary: "{{fields.label}}"
+                fields:
+                  - { label: "Texto", name: "label", widget: "string" }
+                  - label: "URL"
+                    name: "url"
+                    widget: "string"
+                    hint: "Interna começa com / (ex: /sobre/). Externa começa com https:// e abre em nova aba."
+                  - { label: "Descrição", name: "description", widget: "string", required: false }
+                  - label: "Ícone"
+                    name: "icon"
+                    widget: "select"
+                    required: false
+                    options: ["linkedin", "twitter", "github", "mail", "rss", "briefcase", "user", "folder", "pencil", "book", "mic"]
+                  - label: "Destaque"
+                    name: "featured"
+                    widget: "boolean"
+                    required: false
+                    default: false
+                    hint: "Card com fundo roxo, para o link mais importante do grupo."
+                  - label: "Incluir no schema.org (sameAs)"
+                    name: "sameas"
+                    widget: "boolean"
+                    required: false
+                    default: false
+                    hint: "Marque só para perfis seus em outras redes (LinkedIn, X, GitHub)."
+
       - name: "medium"
         label: "Medium"
         file: "medium.md"
