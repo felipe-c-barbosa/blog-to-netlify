@@ -153,13 +153,11 @@ collections:
             name: "profile"
             widget: "object"
             fields:
-              - { label: "Headline", name: "headline", widget: "string", required: false }
               - label: "Intro"
                 name: "intro"
                 widget: "text"
                 required: false
                 hint: "Frase curta exibida abaixo do título da página."
-              - { label: "Avatar", name: "avatar", widget: "string", required: false }
           - label: "Grupos de links"
             name: "groups"
             widget: "list"
