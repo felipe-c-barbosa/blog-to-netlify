@@ -130,14 +130,9 @@ dt {
 dd {
     margin-left: 2em;
 }
-p, ol, ul, dl, .math-display {
+p, ol, ul, dl {
   line-height: 1.5;
   margin-bottom: 1em;
-}
-// KaTeX math display
-.math-display {
-  display: inline-block;
-  width: 100%;
 }
 // Lists within lists
 li > ul, li > ol {
@@ -156,11 +151,6 @@ hr {
 a {
   color: $link-color;
   text-decoration: none;
-}
-.nav {
-  list-style: none;
-  margin: 0;
-  padding: 0;
 }
 // Responsive media
 iframe, img, embed, object, video {
