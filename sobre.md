@@ -1,17 +1,20 @@
 ---
 layout: page
 title: Quem é o Felipe Cardoso Barbosa?
-redirect_from:
-    - /ferramentas/
-    - /portfolio/
-    - /product-stars-materiais/
 permalink: /sobre/
 menu: Sobre
+redirect_from:
+  - /ferramentas/
+  - /portfolio/
+  - /product-stars-materiais/
 ---
-
 Nos últimos 10 anos tenho trabalhado com [Marketing](/marketing/) e **Produto** em empresas de tecnologia que vão de startups, scaleups até unicórnios listados na bolsa.
 
-No momento sou Marketing Manager no Nubank no time de Product e Marketing Lifecycle Management cuidando dos produtos de Conta, Seguros, Open Finance e Investimentos. Também sou embaixador e membro-fundador da Product Marketing Alliance aqui no Brasil.
+No momento sou Marketing Manager no Nubank no time de Product e Marketing Lifecycle Management.
+
+De 2023 até agosto de 2026 cuidei dos produtos de Conta, Seguros, Open Finance, Cripto, Pix, Assistente de Pagamentos e Investimentos. Agora cuido dos produtos de Cartão de Crédito e NuScore.
+
+Também sou embaixador e membro-fundador da Product Marketing Alliance aqui no Brasil.
 
 Sou um dos instrutores do [Curso de Product Marketing da PM3](https://www.cursospm3.com.br/curso-product-marketing/){:target="_blank"} e também no curso de Product Management da Produtos Incríveis. Se você tiver interesse em fazer o curso da PM3 me [chama no chat](#hs-chat-open) porque tenho cupom de desconto.
 
@@ -29,7 +32,9 @@ Ferramentas que tenha familiaridade: Analytics (Google Analytics, Mixpanel, Heap
 
 ### Gerente de Marketing de Produto (Product Marketing Manager) @ Nubank (julho 2022 - atualmente)
 
-No momento estou na estrutura do time de Marketing Brasil do Nubank como Marketing Manager responsável pelos produtos de Conta, Seguros, Open Finance e Investimentos.
+\[Ago'26 - atual] Marketing Manager responsável pelos produtos de Cartão de Crédito e NuScore.
+
+\[Jan'23 até Ago'26] Marketing Manager responsável pelos produtos de Conta, Seguros, Open Finance, Cripto, Pix, Assistente de Pagamentos e Investimentos.
 
 Entre julho/2022 e janeiro/2023 trabalhei como Product Marketing Manager dentro da squad do [Nubank Auto](https://blog.nubank.com.br/seguro-nubank-auto/){:target="_blank"} construindo o Go-To-Market do produto que foi lançado no início de fevereiro/2023.
 
@@ -39,10 +44,10 @@ Trabalhei no time de Product Marketing da VTEX, dentro da organização de Growt
 
 As minhas principais atribuições incluíam:
 
-- Definição de Posicionamento, Messaging, Naming e Packaging dos produtos junto aos times de Produto, Engenharia e Growth;
-- Desenvolvimento e execução do Go-To-Market e plano de lançamento dos produtos trabalhando com times do Brasil e exterior;
-- Trabalho de relacionamento com Desenvolvedores e Developer Marketing;
-- Pesquisa de mercado e análise competitiva.
+* Definição de Posicionamento, Messaging, Naming e Packaging dos produtos junto aos times de Produto, Engenharia e Growth;
+* Desenvolvimento e execução do Go-To-Market e plano de lançamento dos produtos trabalhando com times do Brasil e exterior;
+* Trabalho de relacionamento com Desenvolvedores e Developer Marketing;
+* Pesquisa de mercado e análise competitiva.
 
 ### Gerente de Marketing de Produto (Product Marketing Manager) @ Cortex Intelligence (agosto 2020 - abril 2021)
 
@@ -50,13 +55,13 @@ Respondia ao Diretor de Marketing e compartilhava atividades e objetivos com o t
 
 Fui responsável por duas ofertas diferentes da empresa e minhas principais atividades são:
 
-- Criar materiais para enablement do time de Vendas para que os usem durante a jornada de vendas;
-- Definir e criar estratégias de Go-To-Market, alinhando e validando com o time de Produto e diretores de Marketing, Vendas e Growth;
-- Trabalhar com o time e o Coordenador de Geração de Demanda para definir segmentos e personas para nossos experimentos e campanhas de aquisição;
-- Organizar e liderar reuniões regulares com o time de Produto, Vendas, Marketing e Growth para analisar e otimizar nossas conversões ao longo do funil;
-- Construir e definir junto ao Diretor de Marketing e time Executivo o posicionamento de produto, o messaging e a proposta de valor para guiar nossos esforços de GTM;
-- Lançar novos produtos;
-- Realizar pesquisa de competidores e mercado.
+* Criar materiais para enablement do time de Vendas para que os usem durante a jornada de vendas;
+* Definir e criar estratégias de Go-To-Market, alinhando e validando com o time de Produto e diretores de Marketing, Vendas e Growth;
+* Trabalhar com o time e o Coordenador de Geração de Demanda para definir segmentos e personas para nossos experimentos e campanhas de aquisição;
+* Organizar e liderar reuniões regulares com o time de Produto, Vendas, Marketing e Growth para analisar e otimizar nossas conversões ao longo do funil;
+* Construir e definir junto ao Diretor de Marketing e time Executivo o posicionamento de produto, o messaging e a proposta de valor para guiar nossos esforços de GTM;
+* Lançar novos produtos;
+* Realizar pesquisa de competidores e mercado.
 
 ### Especialista em Marketing de Produto @ Vindi (janeiro 2020 - agosto 2020)
 
@@ -84,16 +89,16 @@ Com o relatório State of Product Marketing e outras pesquisas estamos definindo
 
 A missão da Product Marketing Alliance é elevar o papel de Marketing de Produto, identificar melhores práticas para resultados de sucesso, deixar clara as operações para a função de Marketing de Produto e desenvolver critérios para o papel de Marketing de Produto dentro de organizações de sucesso.
 
-### Organizador @ Produto [ponto] Tech (abril 2019 - até o momento)
+### Organizador @ Produto \[ponto] Tech (abril 2019 - até o momento)
 
-Produto [ponto] Tech é um lugar para os amantes de Produto no Brazil encontrarem uma curadoria de recursos sobre criar produtos de tecnologia.
+Produto \[ponto] Tech é um lugar para os amantes de Produto no Brazil encontrarem uma curadoria de recursos sobre criar produtos de tecnologia.
 
 A ideia é ser um repositório de conteúdos onde todas as pessoas interessadas em produtos de tecnologia podem ir se precisam de inspiração nas diferentes áreas do desenvolvimento de Produto:
 
-- Gestão de Produto;
-- Gestão de Marketing de Produto;
-- UX e Pesquisa;
-- Jobs To Be Done e Customer Development.
+* Gestão de Produto;
+* Gestão de Marketing de Produto;
+* UX e Pesquisa;
+* Jobs To Be Done e Customer Development.
 
 Minha intenção é deixar aberto para todas as pessoas da comunidade sugerirem conteúdos. Caso você queira ajudar basta enviar as sugestões por esse link: https://airtable.com/shrAL4DtYGx3uHRLA
 
@@ -163,6 +168,6 @@ Primeiro funcionário da agência. Construí o plano de negócios estratégico p
 
 ## Quer conversar comigo?
 
-Caso você queira conversar pode me [chamar no chat](#hs-chat-open), entrar em contato via página de [Contato](/contato/){:target="_blank"} ou mandar um email para felipe[at]felipebarbosa.me.
+Caso você queira conversar pode me [chamar no chat](#hs-chat-open), entrar em contato via página de [Contato](/contato/){:target="_blank"} ou mandar um email para felipe\[at]felipebarbosa.me.
 
 Você pode me adicionar ou seguir nas redes sociais. Os links estão no canto direito superior.
